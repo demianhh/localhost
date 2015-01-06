@@ -493,3 +493,12 @@ SSLRandomSeed connect builtin
     ErrorLog "logs/localhost-error.log"
     CustomLog "logs/localhost-access.log" common
 </VirtualHost>
+
+# http://www.sempervideo.de/https/
+<VirtualHost  *:443>
+ServerName localhost
+DocumentRoot "/var/www"
+ SSLEngine on
+ SSLCertificateKeyFile /etc/apache2/myssl/server.cert.key
+ SSLCertificateFile /etc/apache2/myssl/server.cert.crt
+</VirtualHost>
