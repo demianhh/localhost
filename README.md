@@ -28,10 +28,10 @@ Read these instructions:
 
 ## Screenshot
 So it looked when Apache HTTPD Server was finished under [http://localhost](http://localhost):
-![localhost by suriyaa](https://cloud.githubusercontent.com/assets/5073946/4231812/acd0f9f6-3995-11e4-8f94-c431345092c5.PNG)
+![localhost by Suriyaa](https://cloud.githubusercontent.com/assets/5073946/4231812/acd0f9f6-3995-11e4-8f94-c431345092c5.PNG)
 
-So it looked when PHP is activated:
-![php is activated by suriyaa](https://cloud.githubusercontent.com/assets/5073946/4232060/4264e6c4-3998-11e4-9eaf-b5cd365d7669.PNG)
+So it looked when PHP is activated (phpinfo.php):
+![php is activated by Suriyaa](https://cloud.githubusercontent.com/assets/5073946/4232060/4264e6c4-3998-11e4-9eaf-b5cd365d7669.PNG)
 
 
 ----
