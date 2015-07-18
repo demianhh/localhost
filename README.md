@@ -20,7 +20,7 @@ I put that all into `C:\www\`.
 
 But how to compare Apache and PHP?
 
-* Copy the httpd.txt into your httpd.txt file: https://raw.githubusercontent.com/SuriyaaKudoIsc/localhost/master/www/Apache2.2/conf/httpd.txt
+* Copy the httpd.txt into your httpd.txt file: https://github.com/SuriyaaKudoIsc/localhost/raw/Windows-XP/www/Apache2.2/conf/httpd.txt
 
 Read these instructions:
 * [WikiHow](http://www.wikihow.com/Install-and-Configure-Php-5.2.5-and-Apache-2.2.8-in-Windows-Vista) (Example for Windows Vista)
