@@ -3,6 +3,8 @@
 
 My **own example server** runs on *Windows 8.1* under *Apache HTTPD v2.4* include *PHP 5.6.11* (*Win32*).
 
+## Disk Drive
+  > I run under `C:/` drive!
 
 ## Requirement
 * Windows 8.1
