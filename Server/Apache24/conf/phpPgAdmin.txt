@@ -1,0 +1,10 @@
+﻿Starte CMD-Kommando for Nutzer "postgres": psql -U postgres
+
+cd:
+C:\Program Files (x86)\PostgreSQL\9.4
+C:\Program Files (x86)\PostgreSQL\9.4\data
+
+Benutzer: postgres
+Passwort: _________
+
+Port: 5432
