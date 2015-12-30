@@ -1,0 +1,143 @@
+2015-12-27 14:37:22 -- Started mrtg with config 'mrtg.ini'
+2015-12-27 14:37:22 -- ERROR: CFG Error in "workdir", file mrtg.ini line 13: Working directory x:\xxxx\xx\ does not exist
+
+2015-12-27 14:38:02 -- Started mrtg with config 'mrtg.ini'
+2015-12-27 14:38:04 -- 2015-12-27 14:38:03: WARNING: Could not get any data from external command 'perl apache.pl none taccesses -conf Apache.ini'
+Maybe the external command did not even start. (Inappropriate I/O control operation)
+
+2015-12-27 14:38:04 -- 2015-12-27 14:38:03: WARNING: Problem with External get 'perl apache.pl none taccesses -conf Apache.ini':
+   Expected a Number for 'in' but nothing'
+
+2015-12-27 14:38:04 -- 2015-12-27 14:38:03: WARNING: Problem with External get 'perl apache.pl none taccesses -conf Apache.ini':
+   Expected a Number for 'out' but nothing'
+
+2015-12-27 14:38:04 -- 2015-12-27 14:38:03: WARNING: Could not get any data from external command 'perl apache.pl none tkbytes -conf Apache.ini'
+Maybe the external command did not even start. (Inappropriate I/O control operation)
+
+2015-12-27 14:38:04 -- 2015-12-27 14:38:03: WARNING: Problem with External get 'perl apache.pl none tkbytes -conf Apache.ini':
+   Expected a Number for 'in' but nothing'
+
+2015-12-27 14:38:04 -- 2015-12-27 14:38:03: WARNING: Problem with External get 'perl apache.pl none tkbytes -conf Apache.ini':
+   Expected a Number for 'out' but nothing'
+
+2015-12-27 14:38:04 -- 2015-12-27 14:38:03: WARNING: Could not get any data from external command 'perl apache.pl none busyworkers -conf Apache.ini'
+Maybe the external command did not even start. (Inappropriate I/O control operation)
+
+2015-12-27 14:38:04 -- 2015-12-27 14:38:03: WARNING: Problem with External get 'perl apache.pl none busyworkers -conf Apache.ini':
+   Expected a Number for 'in' but nothing'
+
+2015-12-27 14:38:04 -- 2015-12-27 14:38:03: WARNING: Problem with External get 'perl apache.pl none busyworkers -conf Apache.ini':
+   Expected a Number for 'out' but nothing'
+
+2015-12-27 14:38:04 -- 2015-12-27 14:38:04: ERROR: Target[apache-taccesses][_IN_] ' $target->[0]{$mode} ' did not eval into defined data
+2015-12-27 14:38:04 -- 2015-12-27 14:38:04: ERROR: Target[apache-taccesses][_OUT_] ' $target->[0]{$mode} ' did not eval into defined data
+2015-12-27 14:38:04 -- 2015-12-27 14:38:04: ERROR: Target[apache-tkbytes][_IN_] ' $target->[1]{$mode} ' did not eval into defined data
+2015-12-27 14:38:04 -- 2015-12-27 14:38:04: ERROR: Target[apache-tkbytes][_OUT_] ' $target->[1]{$mode} ' did not eval into defined data
+2015-12-27 14:38:05 -- 2015-12-27 14:38:04: ERROR: Target[apache-busyworkers][_IN_] ' $target->[2]{$mode} ' did not eval into defined data
+2015-12-27 14:38:05 -- 2015-12-27 14:38:04: ERROR: Target[apache-busyworkers][_OUT_] ' $target->[2]{$mode} ' did not eval into defined data
+2015-12-27 14:38:22 -- Terminating on signal SIGINT(2)
+2015-12-27 14:38:55 -- Started mrtg with config 'mrtg.ini'
+2015-12-27 14:38:55 -- 2015-12-27 14:38:55: WARNING: Could not get any data from external command 'perl apache.pl none taccesses -conf Apache.ini'
+Maybe the external command did not even start. (Inappropriate I/O control operation)
+
+2015-12-27 14:38:55 -- 2015-12-27 14:38:55: WARNING: Problem with External get 'perl apache.pl none taccesses -conf Apache.ini':
+   Expected a Number for 'in' but nothing'
+
+2015-12-27 14:38:55 -- 2015-12-27 14:38:55: WARNING: Problem with External get 'perl apache.pl none taccesses -conf Apache.ini':
+   Expected a Number for 'out' but nothing'
+
+2015-12-27 14:38:55 -- 2015-12-27 14:38:55: WARNING: Could not get any data from external command 'perl apache.pl none tkbytes -conf Apache.ini'
+Maybe the external command did not even start. (Inappropriate I/O control operation)
+
+2015-12-27 14:38:55 -- 2015-12-27 14:38:55: WARNING: Problem with External get 'perl apache.pl none tkbytes -conf Apache.ini':
+   Expected a Number for 'in' but nothing'
+
+2015-12-27 14:38:55 -- 2015-12-27 14:38:55: WARNING: Problem with External get 'perl apache.pl none tkbytes -conf Apache.ini':
+   Expected a Number for 'out' but nothing'
+
+2015-12-27 14:38:55 -- 2015-12-27 14:38:55: WARNING: Could not get any data from external command 'perl apache.pl none busyworkers -conf Apache.ini'
+Maybe the external command did not even start. (Inappropriate I/O control operation)
+
+2015-12-27 14:38:55 -- 2015-12-27 14:38:55: WARNING: Problem with External get 'perl apache.pl none busyworkers -conf Apache.ini':
+   Expected a Number for 'in' but nothing'
+
+2015-12-27 14:38:55 -- 2015-12-27 14:38:55: WARNING: Problem with External get 'perl apache.pl none busyworkers -conf Apache.ini':
+   Expected a Number for 'out' but nothing'
+
+2015-12-27 14:38:55 -- 2015-12-27 14:38:55: ERROR: Target[apache-taccesses][_IN_] ' $target->[0]{$mode} ' did not eval into defined data
+2015-12-27 14:38:55 -- 2015-12-27 14:38:55: ERROR: Target[apache-taccesses][_OUT_] ' $target->[0]{$mode} ' did not eval into defined data
+2015-12-27 14:38:55 -- 2015-12-27 14:38:55: ERROR: Target[apache-tkbytes][_IN_] ' $target->[1]{$mode} ' did not eval into defined data
+2015-12-27 14:38:55 -- 2015-12-27 14:38:55: ERROR: Target[apache-tkbytes][_OUT_] ' $target->[1]{$mode} ' did not eval into defined data
+2015-12-27 14:38:56 -- 2015-12-27 14:38:55: ERROR: Target[apache-busyworkers][_IN_] ' $target->[2]{$mode} ' did not eval into defined data
+2015-12-27 14:38:56 -- 2015-12-27 14:38:55: ERROR: Target[apache-busyworkers][_OUT_] ' $target->[2]{$mode} ' did not eval into defined data
+2015-12-27 14:39:41 -- Terminating on signal SIGHUP(1)
+2015-12-27 14:40:35 -- Started mrtg with config 'mrtg.ini'
+2015-12-27 14:40:36 -- 2015-12-27 14:40:35: WARNING: Could not get any data from external command 'perl apache.pl none taccesses -conf Apache.ini'
+Maybe the external command did not even start. (Inappropriate I/O control operation)
+
+2015-12-27 14:40:36 -- 2015-12-27 14:40:35: WARNING: Problem with External get 'perl apache.pl none taccesses -conf Apache.ini':
+   Expected a Number for 'in' but nothing'
+
+2015-12-27 14:40:36 -- 2015-12-27 14:40:35: WARNING: Problem with External get 'perl apache.pl none taccesses -conf Apache.ini':
+   Expected a Number for 'out' but nothing'
+
+2015-12-27 14:40:36 -- 2015-12-27 14:40:35: WARNING: Could not get any data from external command 'perl apache.pl none tkbytes -conf Apache.ini'
+Maybe the external command did not even start. (Inappropriate I/O control operation)
+
+2015-12-27 14:40:36 -- 2015-12-27 14:40:35: WARNING: Problem with External get 'perl apache.pl none tkbytes -conf Apache.ini':
+   Expected a Number for 'in' but nothing'
+
+2015-12-27 14:40:36 -- 2015-12-27 14:40:35: WARNING: Problem with External get 'perl apache.pl none tkbytes -conf Apache.ini':
+   Expected a Number for 'out' but nothing'
+
+2015-12-27 14:40:36 -- 2015-12-27 14:40:35: WARNING: Could not get any data from external command 'perl apache.pl none busyworkers -conf Apache.ini'
+Maybe the external command did not even start. (Inappropriate I/O control operation)
+
+2015-12-27 14:40:36 -- 2015-12-27 14:40:35: WARNING: Problem with External get 'perl apache.pl none busyworkers -conf Apache.ini':
+   Expected a Number for 'in' but nothing'
+
+2015-12-27 14:40:36 -- 2015-12-27 14:40:35: WARNING: Problem with External get 'perl apache.pl none busyworkers -conf Apache.ini':
+   Expected a Number for 'out' but nothing'
+
+2015-12-27 14:40:36 -- 2015-12-27 14:40:36: ERROR: Target[apache-taccesses][_IN_] ' $target->[0]{$mode} ' did not eval into defined data
+2015-12-27 14:40:36 -- 2015-12-27 14:40:36: ERROR: Target[apache-taccesses][_OUT_] ' $target->[0]{$mode} ' did not eval into defined data
+2015-12-27 14:40:36 -- 2015-12-27 14:40:36: ERROR: Target[apache-tkbytes][_IN_] ' $target->[1]{$mode} ' did not eval into defined data
+2015-12-27 14:40:36 -- 2015-12-27 14:40:36: ERROR: Target[apache-tkbytes][_OUT_] ' $target->[1]{$mode} ' did not eval into defined data
+2015-12-27 14:40:37 -- 2015-12-27 14:40:36: ERROR: Target[apache-busyworkers][_IN_] ' $target->[2]{$mode} ' did not eval into defined data
+2015-12-27 14:40:37 -- 2015-12-27 14:40:36: ERROR: Target[apache-busyworkers][_OUT_] ' $target->[2]{$mode} ' did not eval into defined data
+2015-12-27 14:42:14 -- Terminating on signal SIGHUP(1)
+2015-12-27 14:43:09 -- Started mrtg with config 'mrtg.ini'
+2015-12-27 14:43:09 -- 2015-12-27 14:43:09: WARNING: Could not get any data from external command 'perl apache.pl none taccesses -conf Apache.ini'
+Maybe the external command did not even start. (Inappropriate I/O control operation)
+
+2015-12-27 14:43:09 -- 2015-12-27 14:43:09: WARNING: Problem with External get 'perl apache.pl none taccesses -conf Apache.ini':
+   Expected a Number for 'in' but nothing'
+
+2015-12-27 14:43:09 -- 2015-12-27 14:43:09: WARNING: Problem with External get 'perl apache.pl none taccesses -conf Apache.ini':
+   Expected a Number for 'out' but nothing'
+
+2015-12-27 14:43:09 -- 2015-12-27 14:43:09: WARNING: Could not get any data from external command 'perl apache.pl none tkbytes -conf Apache.ini'
+Maybe the external command did not even start. (Inappropriate I/O control operation)
+
+2015-12-27 14:43:09 -- 2015-12-27 14:43:09: WARNING: Problem with External get 'perl apache.pl none tkbytes -conf Apache.ini':
+   Expected a Number for 'in' but nothing'
+
+2015-12-27 14:43:09 -- 2015-12-27 14:43:09: WARNING: Problem with External get 'perl apache.pl none tkbytes -conf Apache.ini':
+   Expected a Number for 'out' but nothing'
+
+2015-12-27 14:43:09 -- 2015-12-27 14:43:09: WARNING: Could not get any data from external command 'perl apache.pl none busyworkers -conf Apache.ini'
+Maybe the external command did not even start. (Inappropriate I/O control operation)
+
+2015-12-27 14:43:09 -- 2015-12-27 14:43:09: WARNING: Problem with External get 'perl apache.pl none busyworkers -conf Apache.ini':
+   Expected a Number for 'in' but nothing'
+
+2015-12-27 14:43:09 -- 2015-12-27 14:43:09: WARNING: Problem with External get 'perl apache.pl none busyworkers -conf Apache.ini':
+   Expected a Number for 'out' but nothing'
+
+2015-12-27 14:43:09 -- 2015-12-27 14:43:09: ERROR: Target[apache-taccesses][_IN_] ' $target->[0]{$mode} ' did not eval into defined data
+2015-12-27 14:43:09 -- 2015-12-27 14:43:09: ERROR: Target[apache-taccesses][_OUT_] ' $target->[0]{$mode} ' did not eval into defined data
+2015-12-27 14:43:09 -- 2015-12-27 14:43:09: ERROR: Target[apache-tkbytes][_IN_] ' $target->[1]{$mode} ' did not eval into defined data
+2015-12-27 14:43:09 -- 2015-12-27 14:43:09: ERROR: Target[apache-tkbytes][_OUT_] ' $target->[1]{$mode} ' did not eval into defined data
+2015-12-27 14:43:09 -- 2015-12-27 14:43:09: ERROR: Target[apache-busyworkers][_IN_] ' $target->[2]{$mode} ' did not eval into defined data
+2015-12-27 14:43:09 -- 2015-12-27 14:43:09: ERROR: Target[apache-busyworkers][_OUT_] ' $target->[2]{$mode} ' did not eval into defined data
+2015-12-27 14:43:47 -- Terminating on signal SIGHUP(1)
