@@ -1,0 +1,36 @@
+http://drupalmotion.com/article/dev-environment-install-and-configure-bind-dns-server-windows-7
+https://de.wikipedia.org/wiki/BIND
+
+
+rndc-confgen -a					in cmd
+notepad named.conf				in etc:
+
+
+options {        
+  directory "c:\windows\SysWOW64\dns\etc";
+  allow-transfer { none; };
+};
+
+logging{
+  channel my_log{
+    file "named.log" versions 3 size 2m;
+    severity info;
+    print-time yes;
+    print-severity yes;
+    print-category yes;
+  };
+  category default{
+    my_log;
+  };
+};
+
+
+ipconfig /flushdns
+rndc reload
+
+
+options {        
+  directory "c:\windows\SysWOW64\dns\etc";  
+  forwarders {8.8.8.8; 8.8.4.4;};
+  allow-transfer { none; };
+};

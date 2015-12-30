@@ -1,0 +1,4 @@
+﻿ipconfig /flushdns
+rndc reload
+
+netsh interface show interface

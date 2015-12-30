@@ -1,0 +1,17 @@
+﻿$TTL 14400
+@      86400    IN      SOA     ns1.website.com. admin@website.com. (
+                2008021501      ; serial, todays date+todays
+                86400           ; refresh, seconds
+                7200            ; retry, seconds
+                3600000         ; expire, seconds
+                86400 )         ; minimum, seconds
+localhost. 86400 IN NS ns1.localhost.
+localhost. 86400 IN NS ns2.localhost.
+ns1                     IN A 127.0.0.1
+ns2                     IN A 127.0.0.1
+localhost. IN A 127.0.0.1
+localhost. IN A 127.0.0.1
+localhost. IN MX 0 localhost.
+mail IN CNAME localhost.
+www IN CNAME localhost.
+ftp IN A 127.0.0.1

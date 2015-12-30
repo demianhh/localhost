@@ -1,0 +1,4 @@
+﻿https://de.wikipedia.org/wiki/BIND#Konfiguration
+ftp://ftp.internic.net/domain/named.root
+http://www.zytrax.com/books/dns/ch5/win2k.html#win-7
+http://drupalmotion.com/article/dev-environment-install-and-configure-bind-dns-server-windows-7
