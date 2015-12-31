@@ -1,0 +1,501 @@
+(OS 5)Zugriff verweigert  : AH00373: Failed to open the 'Apache2.4' service
+(OS 5)Zugriff verweigert  : AH00373: Failed to open the 'Apache2.4' service
+(OS 5)Zugriff verweigert  : AH00373: Failed to open the 'Apache2.4' service
+(OS 5)Zugriff verweigert  : AH00373: Failed to open the 'Apache2.4' service
+(OS 5)Zugriff verweigert  : AH00373: Failed to open the 'Apache2.4' service
+Starting the 'Apache2.4' service
+(OS 5)Zugriff verweigert  : AH00373: Failed to open the 'Apache2.4' service
+(OS 5)Zugriff verweigert  : AH00373: Failed to open the 'Apache2.4' service
+(OS 5)Zugriff verweigert  : AH00373: Failed to open the 'Apache2.4' service
+Starting the 'Apache2.4' service
+[Sat Dec 26 16:07:08.729049 2015] [ssl:warn] [pid 4820:tid 552] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 26 16:07:08.734060 2015] [ssl:warn] [pid 4820:tid 552] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:07:09.138929 2015] [ssl:warn] [pid 4820:tid 552] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 26 16:07:09.138929 2015] [ssl:warn] [pid 4820:tid 552] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:07:09.174042 2015] [mpm_winnt:notice] [pid 4820:tid 552] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e configured -- resuming normal operations
+[Sat Dec 26 16:07:09.174042 2015] [mpm_winnt:notice] [pid 4820:tid 552] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sat Dec 26 16:07:09.174042 2015] [core:notice] [pid 4820:tid 552] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 26 16:07:09.188053 2015] [mpm_winnt:notice] [pid 4820:tid 552] AH00418: Parent: Created child process 6432
+[Sat Dec 26 16:07:10.965552 2015] [ssl:warn] [pid 6432:tid 504] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 26 16:07:10.967554 2015] [ssl:warn] [pid 6432:tid 504] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:07:11.211673 2015] [ssl:warn] [pid 6432:tid 504] AH01906: localhost:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Dec 26 16:07:11.211673 2015] [ssl:warn] [pid 6432:tid 504] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:07:11.267765 2015] [mpm_winnt:notice] [pid 6432:tid 504] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 26 16:15:37.411437 2015] [authz_core:error] [pid 6432:tid 2408] [client ::1:54493] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/server-info
+[Sat Dec 26 16:25:06.112840 2015] [mpm_winnt:crit] [pid 6432:tid 504] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Dec 26 16:25:06.114841 2015] [mpm_winnt:warn] [pid 6432:tid 1824] (OS 995)Der E/A-Vorgang wurde wegen eines Threadendes oder einer Anwendungsanforderung abgebrochen.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Sat Dec 26 16:25:06.115846 2015] [mpm_winnt:warn] [pid 6432:tid 1820] (OS 995)Der E/A-Vorgang wurde wegen eines Threadendes oder einer Anwendungsanforderung abgebrochen.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Sat Dec 26 16:25:06.116842 2015] [mpm_winnt:error] [pid 6432:tid 1824] (OS 10038)Ein Vorgang bezog sich auf ein Objekt, das kein Socket ist.  : AH00337: Child: Encountered too many AcceptEx faults accepting client connections. Possible causes: dynamic address renewal, or incompatible VPN or firewall software. 
+[Sat Dec 26 16:25:06.116842 2015] [mpm_winnt:notice] [pid 6432:tid 1824] (OS 10038)Ein Vorgang bezog sich auf ein Objekt, das kein Socket ist.  : AH00338: winnt_mpm: falling back to 'AcceptFilter none'.
+[Sat Dec 26 16:25:06.116842 2015] [mpm_winnt:error] [pid 6432:tid 1820] (OS 10038)Ein Vorgang bezog sich auf ein Objekt, das kein Socket ist.  : AH00337: Child: Encountered too many AcceptEx faults accepting client connections. Possible causes: dynamic address renewal, or incompatible VPN or firewall software. 
+[Sat Dec 26 16:25:06.114841 2015] [mpm_winnt:warn] [pid 6432:tid 2552] (OS 995)Der E/A-Vorgang wurde wegen eines Threadendes oder einer Anwendungsanforderung abgebrochen.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Sat Dec 26 16:25:06.117842 2015] [mpm_winnt:notice] [pid 6432:tid 1820] (OS 10038)Ein Vorgang bezog sich auf ein Objekt, das kein Socket ist.  : AH00338: winnt_mpm: falling back to 'AcceptFilter none'.
+[Sat Dec 26 16:25:06.117842 2015] [mpm_winnt:error] [pid 6432:tid 2552] (OS 10038)Ein Vorgang bezog sich auf ein Objekt, das kein Socket ist.  : AH00337: Child: Encountered too many AcceptEx faults accepting client connections. Possible causes: dynamic address renewal, or incompatible VPN or firewall software. 
+[Sat Dec 26 16:25:06.117842 2015] [mpm_winnt:notice] [pid 6432:tid 2552] (OS 10038)Ein Vorgang bezog sich auf ein Objekt, das kein Socket ist.  : AH00338: winnt_mpm: falling back to 'AcceptFilter none'.
+Starting the 'Apache2.4' service
+(OS 5)Zugriff verweigert  : AH00373: Failed to open the 'Apache2.4' service
+Starting the 'Apache2.4' service
+(OS 5)Zugriff verweigert  : AH00373: Failed to open the 'Apache2.4' service
+(OS 5)Zugriff verweigert  : AH00373: Failed to open the 'Apache2.4' service
+[Sat Dec 26 16:41:49.520546 2015] [ssl:warn] [pid 7032:tid 544] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:41:49.597599 2015] [core:warn] [pid 7032:tid 544] AH00098: pid file C:/Server/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 26 16:41:49.728688 2015] [ssl:warn] [pid 7032:tid 544] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:41:49.730689 2015] [mpm_winnt:notice] [pid 7032:tid 544] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e configured -- resuming normal operations
+[Sat Dec 26 16:41:49.730689 2015] [mpm_winnt:notice] [pid 7032:tid 544] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sat Dec 26 16:41:49.730689 2015] [core:notice] [pid 7032:tid 544] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 26 16:41:49.745696 2015] [mpm_winnt:notice] [pid 7032:tid 544] AH00418: Parent: Created child process 7516
+[Sat Dec 26 16:41:50.724419 2015] [ssl:warn] [pid 7516:tid 448] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:41:50.928554 2015] [ssl:warn] [pid 7516:tid 448] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:41:50.939565 2015] [mpm_winnt:notice] [pid 7516:tid 448] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 26 16:44:45.989448 2015] [mpm_winnt:notice] [pid 7032:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 26 16:44:47.990761 2015] [mpm_winnt:notice] [pid 7516:tid 448] AH00364: Child: All worker threads have exited.
+[Sat Dec 26 16:44:48.016778 2015] [mpm_winnt:notice] [pid 7032:tid 544] AH00430: Parent: Child process 7516 exited successfully.
+[Sat Dec 26 16:44:50.219880 2015] [ssl:warn] [pid 2604:tid 560] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:44:50.458039 2015] [ssl:warn] [pid 2604:tid 560] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:44:50.459039 2015] [mpm_winnt:notice] [pid 2604:tid 560] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e configured -- resuming normal operations
+[Sat Dec 26 16:44:50.459039 2015] [mpm_winnt:notice] [pid 2604:tid 560] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sat Dec 26 16:44:50.459039 2015] [core:notice] [pid 2604:tid 560] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 26 16:44:50.474051 2015] [mpm_winnt:notice] [pid 2604:tid 560] AH00418: Parent: Created child process 208
+[Sat Dec 26 16:44:51.561009 2015] [ssl:warn] [pid 208:tid 452] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:44:51.755158 2015] [ssl:warn] [pid 208:tid 452] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:44:51.765166 2015] [mpm_winnt:notice] [pid 208:tid 452] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 26 16:47:12.342466 2015] [authz_core:error] [pid 208:tid 1068] [client ::1:55243] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/server-info
+[Sat Dec 26 16:47:14.329877 2015] [authz_core:error] [pid 208:tid 1068] [client ::1:55243] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/server-info
+[Sat Dec 26 16:47:16.036405 2015] [authz_core:error] [pid 208:tid 1068] [client ::1:55243] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/server-info
+[Sat Dec 26 16:47:17.449283 2015] [authz_core:error] [pid 208:tid 1068] [client ::1:55243] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/server-info
+[Sat Dec 26 16:47:18.635318 2015] [authz_core:error] [pid 208:tid 1068] [client ::1:55243] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/server-info
+[Sat Dec 26 16:47:19.783648 2015] [authz_core:error] [pid 208:tid 1068] [client ::1:55243] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/server-info
+[Sat Dec 26 16:48:14.030036 2015] [mpm_winnt:notice] [pid 2604:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 26 16:48:16.032225 2015] [mpm_winnt:notice] [pid 208:tid 452] AH00364: Child: All worker threads have exited.
+[Sat Dec 26 16:48:16.054323 2015] [mpm_winnt:notice] [pid 2604:tid 560] AH00430: Parent: Child process 208 exited successfully.
+[Sat Dec 26 16:48:54.593163 2015] [ssl:warn] [pid 3532:tid 552] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:48:54.795576 2015] [ssl:warn] [pid 3532:tid 552] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:48:54.796577 2015] [mpm_winnt:notice] [pid 3532:tid 552] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e configured -- resuming normal operations
+[Sat Dec 26 16:48:54.796577 2015] [mpm_winnt:notice] [pid 3532:tid 552] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sat Dec 26 16:48:54.796577 2015] [core:notice] [pid 3532:tid 552] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 26 16:48:54.810587 2015] [mpm_winnt:notice] [pid 3532:tid 552] AH00418: Parent: Created child process 6736
+[Sat Dec 26 16:48:55.729354 2015] [ssl:warn] [pid 6736:tid 440] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:48:55.910523 2015] [ssl:warn] [pid 6736:tid 440] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:48:55.919529 2015] [mpm_winnt:notice] [pid 6736:tid 440] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 26 16:49:02.348996 2015] [mpm_winnt:notice] [pid 3532:tid 552] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 26 16:49:04.351204 2015] [mpm_winnt:notice] [pid 6736:tid 440] AH00364: Child: All worker threads have exited.
+[Sat Dec 26 16:49:04.368214 2015] [mpm_winnt:notice] [pid 3532:tid 552] AH00430: Parent: Child process 6736 exited successfully.
+[Sat Dec 26 16:49:05.924818 2015] [ssl:warn] [pid 5540:tid 560] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:49:06.120949 2015] [ssl:warn] [pid 5540:tid 560] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:49:06.121949 2015] [mpm_winnt:notice] [pid 5540:tid 560] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e configured -- resuming normal operations
+[Sat Dec 26 16:49:06.121949 2015] [mpm_winnt:notice] [pid 5540:tid 560] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sat Dec 26 16:49:06.121949 2015] [core:notice] [pid 5540:tid 560] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 26 16:49:06.135959 2015] [mpm_winnt:notice] [pid 5540:tid 560] AH00418: Parent: Created child process 7248
+[Sat Dec 26 16:49:07.788581 2015] [ssl:warn] [pid 7248:tid 160] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:49:07.970702 2015] [ssl:warn] [pid 7248:tid 160] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:49:07.979708 2015] [mpm_winnt:notice] [pid 7248:tid 160] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 26 16:51:00.362972 2015] [mpm_winnt:notice] [pid 5540:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 26 16:51:02.364916 2015] [mpm_winnt:notice] [pid 7248:tid 160] AH00364: Child: All worker threads have exited.
+[Sat Dec 26 16:51:02.386926 2015] [mpm_winnt:notice] [pid 5540:tid 560] AH00430: Parent: Child process 7248 exited successfully.
+[Sat Dec 26 16:51:03.925081 2015] [ssl:warn] [pid 7840:tid 552] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:51:04.158383 2015] [ssl:warn] [pid 7840:tid 552] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:51:04.160384 2015] [mpm_winnt:notice] [pid 7840:tid 552] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e configured -- resuming normal operations
+[Sat Dec 26 16:51:04.160384 2015] [mpm_winnt:notice] [pid 7840:tid 552] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sat Dec 26 16:51:04.160384 2015] [core:notice] [pid 7840:tid 552] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 26 16:51:04.188401 2015] [mpm_winnt:notice] [pid 7840:tid 552] AH00418: Parent: Created child process 7776
+[Sat Dec 26 16:51:05.185307 2015] [ssl:warn] [pid 7776:tid 536] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:51:05.394492 2015] [ssl:warn] [pid 7776:tid 536] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 16:51:05.403495 2015] [mpm_winnt:notice] [pid 7776:tid 536] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 26 16:51:09.695677 2015] [authz_core:error] [pid 7776:tid 1068] [client ::1:55293] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/server-info
+[Sat Dec 26 16:56:30.778385 2015] [mpm_winnt:notice] [pid 7840:tid 552] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 26 16:56:32.779673 2015] [mpm_winnt:notice] [pid 7776:tid 536] AH00364: Child: All worker threads have exited.
+[Sat Dec 26 16:56:32.796679 2015] [mpm_winnt:notice] [pid 7840:tid 552] AH00430: Parent: Child process 7776 exited successfully.
+Starting the 'Apache2.4' service
+(OS 5)Zugriff verweigert  : AH00373: Failed to open the 'Apache2.4' service
+[Sat Dec 26 17:09:18.401927 2015] [ssl:warn] [pid 2176:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:09:18.818097 2015] [ssl:warn] [pid 2176:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:09:20.098680 2015] [mpm_winnt:notice] [pid 2176:tid 592] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sat Dec 26 17:09:20.099677 2015] [mpm_winnt:notice] [pid 2176:tid 592] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sat Dec 26 17:09:20.099677 2015] [core:notice] [pid 2176:tid 592] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 26 17:09:20.131703 2015] [mpm_winnt:notice] [pid 2176:tid 592] AH00418: Parent: Created child process 4608
+[Sat Dec 26 17:09:21.846924 2015] [ssl:warn] [pid 4608:tid 536] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:09:22.071154 2015] [ssl:warn] [pid 4608:tid 536] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:09:22.101172 2015] [mpm_winnt:notice] [pid 4608:tid 536] AH00354: Child: Starting 50 worker threads.
+[Sat Dec 26 17:09:26.547837 2015] [core:alert] [pid 4608:tid 1036] [client ::1:55824] C:/Server/Apache24/htdocs/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sat Dec 26 17:09:49.741890 2015] [mpm_winnt:notice] [pid 2176:tid 592] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 26 17:09:51.743902 2015] [mpm_winnt:notice] [pid 4608:tid 536] AH00364: Child: All worker threads have exited.
+[Sat Dec 26 17:09:51.800940 2015] [mpm_winnt:notice] [pid 2176:tid 592] AH00430: Parent: Child process 4608 exited successfully.
+[Sat Dec 26 17:09:53.418298 2015] [ssl:warn] [pid 7664:tid 560] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:09:53.640447 2015] [ssl:warn] [pid 7664:tid 560] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:09:53.642448 2015] [mpm_winnt:notice] [pid 7664:tid 560] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e configured -- resuming normal operations
+[Sat Dec 26 17:09:53.642448 2015] [mpm_winnt:notice] [pid 7664:tid 560] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sat Dec 26 17:09:53.642448 2015] [core:notice] [pid 7664:tid 560] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 26 17:09:53.657459 2015] [mpm_winnt:notice] [pid 7664:tid 560] AH00418: Parent: Created child process 7056
+[Sat Dec 26 17:09:54.763257 2015] [ssl:warn] [pid 7056:tid 560] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:09:55.024498 2015] [ssl:warn] [pid 7056:tid 560] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:09:55.033507 2015] [mpm_winnt:notice] [pid 7056:tid 560] AH00354: Child: Starting 50 worker threads.
+[Sat Dec 26 17:10:00.029055 2015] [core:alert] [pid 7056:tid 964] [client ::1:55830] C:/Server/Apache24/htdocs/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sat Dec 26 17:10:05.500479 2015] [core:alert] [pid 7056:tid 964] [client ::1:55831] C:/Server/Apache24/htdocs/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sat Dec 26 17:10:08.289995 2015] [core:alert] [pid 7056:tid 964] [client ::1:55833] C:/Server/Apache24/htdocs/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sat Dec 26 17:10:17.010920 2015] [mpm_winnt:notice] [pid 7664:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 26 17:10:19.012939 2015] [mpm_winnt:notice] [pid 7056:tid 560] AH00364: Child: All worker threads have exited.
+[Sat Dec 26 17:10:19.038947 2015] [mpm_winnt:notice] [pid 7664:tid 560] AH00430: Parent: Child process 7056 exited successfully.
+[Sat Dec 26 17:10:20.638741 2015] [ssl:warn] [pid 4736:tid 132] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:10:20.916968 2015] [ssl:warn] [pid 4736:tid 132] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:10:20.939983 2015] [mpm_winnt:notice] [pid 4736:tid 132] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sat Dec 26 17:10:20.939983 2015] [mpm_winnt:notice] [pid 4736:tid 132] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sat Dec 26 17:10:20.939983 2015] [core:notice] [pid 4736:tid 132] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 26 17:10:20.953993 2015] [mpm_winnt:notice] [pid 4736:tid 132] AH00418: Parent: Created child process 4788
+[Sat Dec 26 17:10:22.028733 2015] [ssl:warn] [pid 4788:tid 508] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:10:22.287151 2015] [ssl:warn] [pid 4788:tid 508] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:10:22.316174 2015] [mpm_winnt:notice] [pid 4788:tid 508] AH00354: Child: Starting 50 worker threads.
+[Sat Dec 26 17:10:25.095095 2015] [core:alert] [pid 4788:tid 1012] [client ::1:55834] C:/Server/Apache24/htdocs/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sat Dec 26 17:10:28.230660 2015] [core:alert] [pid 4788:tid 1012] [client ::1:55835] C:/Server/Apache24/htdocs/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sat Dec 26 17:10:30.960017 2015] [core:alert] [pid 4788:tid 1012] [client ::1:55838] C:/Server/Apache24/htdocs/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sat Dec 26 17:10:32.596752 2015] [core:alert] [pid 4788:tid 1012] [client ::1:55839] C:/Server/Apache24/htdocs/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sat Dec 26 17:10:36.166467 2015] [mpm_winnt:notice] [pid 4736:tid 132] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 26 17:10:38.168395 2015] [mpm_winnt:notice] [pid 4788:tid 508] AH00364: Child: All worker threads have exited.
+[Sat Dec 26 17:10:38.200490 2015] [mpm_winnt:notice] [pid 4736:tid 132] AH00430: Parent: Child process 4788 exited successfully.
+[Sat Dec 26 17:10:39.769020 2015] [ssl:warn] [pid 3868:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:10:40.010326 2015] [ssl:warn] [pid 3868:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:10:40.033333 2015] [mpm_winnt:notice] [pid 3868:tid 580] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sat Dec 26 17:10:40.033333 2015] [mpm_winnt:notice] [pid 3868:tid 580] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sat Dec 26 17:10:40.033333 2015] [core:notice] [pid 3868:tid 580] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 26 17:10:40.049341 2015] [mpm_winnt:notice] [pid 3868:tid 580] AH00418: Parent: Created child process 2604
+[Sat Dec 26 17:10:41.199362 2015] [ssl:warn] [pid 2604:tid 608] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:10:41.715928 2015] [ssl:warn] [pid 2604:tid 608] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:10:41.746949 2015] [mpm_winnt:notice] [pid 2604:tid 608] AH00354: Child: Starting 50 worker threads.
+[Sat Dec 26 17:11:02.765417 2015] [mpm_winnt:notice] [pid 3868:tid 580] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 26 17:11:04.766975 2015] [mpm_winnt:notice] [pid 2604:tid 608] AH00364: Child: All worker threads have exited.
+[Sat Dec 26 17:11:04.794993 2015] [mpm_winnt:notice] [pid 3868:tid 580] AH00430: Parent: Child process 2604 exited successfully.
+[Sat Dec 26 17:11:06.567329 2015] [ssl:warn] [pid 1236:tid 588] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:11:06.824733 2015] [ssl:warn] [pid 1236:tid 588] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:11:06.846745 2015] [mpm_winnt:notice] [pid 1236:tid 588] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sat Dec 26 17:11:06.846745 2015] [mpm_winnt:notice] [pid 1236:tid 588] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sat Dec 26 17:11:06.846745 2015] [core:notice] [pid 1236:tid 588] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 26 17:11:06.861759 2015] [mpm_winnt:notice] [pid 1236:tid 588] AH00418: Parent: Created child process 996
+[Sat Dec 26 17:11:08.680383 2015] [ssl:warn] [pid 996:tid 180] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:11:08.919872 2015] [ssl:warn] [pid 996:tid 180] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:11:08.948891 2015] [mpm_winnt:notice] [pid 996:tid 180] AH00354: Child: Starting 50 worker threads.
+[Sat Dec 26 17:11:08.953895 2015] [core:alert] [pid 996:tid 1020] [client ::1:55840] C:/Server/Apache24/htdocs/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sat Dec 26 17:11:10.543429 2015] [core:alert] [pid 996:tid 1020] [client ::1:55842] C:/Server/Apache24/htdocs/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sat Dec 26 17:11:21.227746 2015] [core:alert] [pid 996:tid 1020] [client ::1:55844] C:/Server/Apache24/htdocs/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sat Dec 26 17:11:26.005395 2015] [core:alert] [pid 996:tid 1020] [client ::1:55845] C:/Server/Apache24/htdocs/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sat Dec 26 17:11:55.878725 2015] [mpm_winnt:notice] [pid 1236:tid 588] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 26 17:11:57.880444 2015] [mpm_winnt:notice] [pid 996:tid 180] AH00364: Child: All worker threads have exited.
+[Sat Dec 26 17:11:57.902457 2015] [mpm_winnt:notice] [pid 1236:tid 588] AH00430: Parent: Child process 996 exited successfully.
+[Sat Dec 26 17:11:59.682661 2015] [ssl:warn] [pid 5956:tid 576] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:11:59.958844 2015] [ssl:warn] [pid 5956:tid 576] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:11:59.961847 2015] [mpm_winnt:notice] [pid 5956:tid 576] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e configured -- resuming normal operations
+[Sat Dec 26 17:11:59.961847 2015] [mpm_winnt:notice] [pid 5956:tid 576] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sat Dec 26 17:11:59.961847 2015] [core:notice] [pid 5956:tid 576] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 26 17:11:59.978858 2015] [mpm_winnt:notice] [pid 5956:tid 576] AH00418: Parent: Created child process 4740
+[Sat Dec 26 17:12:01.209680 2015] [ssl:warn] [pid 4740:tid 536] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:12:01.443879 2015] [ssl:warn] [pid 4740:tid 536] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:12:01.452884 2015] [mpm_winnt:notice] [pid 4740:tid 536] AH00354: Child: Starting 50 worker threads.
+[Sat Dec 26 17:12:14.447801 2015] [mpm_winnt:notice] [pid 5956:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 26 17:12:23.412222 2015] [mpm_winnt:notice] [pid 4740:tid 536] AH00364: Child: All worker threads have exited.
+[Sat Dec 26 17:12:23.428231 2015] [mpm_winnt:notice] [pid 5956:tid 576] AH00430: Parent: Child process 4740 exited successfully.
+[Sat Dec 26 17:12:25.033669 2015] [ssl:warn] [pid 4944:tid 584] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:12:25.324843 2015] [ssl:warn] [pid 4944:tid 584] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:12:25.344855 2015] [mpm_winnt:notice] [pid 4944:tid 584] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sat Dec 26 17:12:25.345856 2015] [mpm_winnt:notice] [pid 4944:tid 584] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sat Dec 26 17:12:25.345856 2015] [core:notice] [pid 4944:tid 584] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 26 17:12:25.360868 2015] [mpm_winnt:notice] [pid 4944:tid 584] AH00418: Parent: Created child process 8104
+[Sat Dec 26 17:12:27.007968 2015] [ssl:warn] [pid 8104:tid 532] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:12:27.240199 2015] [ssl:warn] [pid 8104:tid 532] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:12:27.269218 2015] [mpm_winnt:notice] [pid 8104:tid 532] AH00354: Child: Starting 50 worker threads.
+[Sat Dec 26 17:12:30.117472 2015] [:error] [pid 8104:tid 1020] [client ::1:55855] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\\Server\\Apache24\\htdocs\\phpinfo.php on line 2
+[Sat Dec 26 17:16:54.740480 2015] [mpm_winnt:notice] [pid 4944:tid 584] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 26 17:16:56.742421 2015] [mpm_winnt:notice] [pid 8104:tid 532] AH00364: Child: All worker threads have exited.
+[Sat Dec 26 17:16:56.770440 2015] [mpm_winnt:notice] [pid 4944:tid 584] AH00430: Parent: Child process 8104 exited successfully.
+[Sat Dec 26 17:16:59.318142 2015] [ssl:warn] [pid 2944:tid 636] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:16:59.678576 2015] [ssl:warn] [pid 2944:tid 636] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:16:59.709598 2015] [mpm_winnt:notice] [pid 2944:tid 636] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sat Dec 26 17:16:59.709598 2015] [mpm_winnt:notice] [pid 2944:tid 636] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sat Dec 26 17:16:59.709598 2015] [core:notice] [pid 2944:tid 636] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 26 17:16:59.727608 2015] [mpm_winnt:notice] [pid 2944:tid 636] AH00418: Parent: Created child process 5108
+[Sat Dec 26 17:17:00.891431 2015] [ssl:warn] [pid 5108:tid 152] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:17:01.180806 2015] [ssl:warn] [pid 5108:tid 152] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:17:01.213829 2015] [mpm_winnt:notice] [pid 5108:tid 152] AH00354: Child: Starting 50 worker threads.
+[Sat Dec 26 17:19:12.106148 2015] [authz_core:error] [pid 5108:tid 1008] [client 127.0.0.1:56038] AH01630: client denied by server configuration: C:/Server/Apache24/icons/blank.gif, referer: http://mediawiki.inc.isc/
+[Sat Dec 26 17:19:28.744976 2015] [authz_core:error] [pid 5108:tid 960] [client 127.0.0.1:56055] AH01630: client denied by server configuration: C:/Server/Apache24/icons/blank.gif, referer: http://inc.isc/
+[Sat Dec 26 17:20:02.317740 2015] [mpm_winnt:notice] [pid 2944:tid 636] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 26 17:20:04.320082 2015] [mpm_winnt:notice] [pid 5108:tid 152] AH00364: Child: All worker threads have exited.
+[Sat Dec 26 17:20:04.361099 2015] [mpm_winnt:notice] [pid 2944:tid 636] AH00430: Parent: Child process 5108 exited successfully.
+[Sat Dec 26 17:27:29.080221 2015] [ssl:warn] [pid 3800:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:27:29.348992 2015] [ssl:warn] [pid 3800:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:27:29.377015 2015] [mpm_winnt:notice] [pid 3800:tid 580] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sat Dec 26 17:27:29.378012 2015] [mpm_winnt:notice] [pid 3800:tid 580] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sat Dec 26 17:27:29.378012 2015] [core:notice] [pid 3800:tid 580] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sat Dec 26 17:27:29.395023 2015] [mpm_winnt:notice] [pid 3800:tid 580] AH00418: Parent: Created child process 7840
+[Sat Dec 26 17:27:30.433718 2015] [ssl:warn] [pid 7840:tid 540] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:27:30.688908 2015] [ssl:warn] [pid 7840:tid 540] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 26 17:27:30.716926 2015] [mpm_winnt:notice] [pid 7840:tid 540] AH00354: Child: Starting 50 worker threads.
+[Sat Dec 26 17:27:36.965412 2015] [authz_core:error] [pid 7840:tid 1016] [client 127.0.0.1:56200] AH01630: client denied by server configuration: C:/Server/Apache24/icons/blank.gif, referer: http://videofy.isc/
+[Sat Dec 26 17:27:40.123006 2015] [authz_core:error] [pid 7840:tid 1012] [client 127.0.0.1:56211] AH01630: client denied by server configuration: C:/Server/Apache24/icons/blank.gif, referer: http://videos.isc/
+[Sat Dec 26 17:27:47.336082 2015] [authz_core:error] [pid 7840:tid 1004] [client 127.0.0.1:56218] AH01630: client denied by server configuration: C:/Server/Apache24/icons/blank.gif, referer: http://stream.videofy.isc/
+[Sat Dec 26 17:28:03.313031 2015] [mpm_winnt:notice] [pid 3800:tid 580] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 26 17:28:05.314450 2015] [mpm_winnt:notice] [pid 7840:tid 540] AH00364: Child: All worker threads have exited.
+[Sat Dec 26 17:28:05.352476 2015] [mpm_winnt:notice] [pid 3800:tid 580] AH00430: Parent: Child process 7840 exited successfully.
+[Sun Dec 27 11:57:25.169792 2015] [ssl:warn] [pid 8248:tid 584] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 11:57:25.667217 2015] [ssl:warn] [pid 8248:tid 584] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 11:57:26.440802 2015] [mpm_winnt:notice] [pid 8248:tid 584] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 11:57:26.440802 2015] [mpm_winnt:notice] [pid 8248:tid 584] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 11:57:26.440802 2015] [core:notice] [pid 8248:tid 584] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 11:57:26.469823 2015] [mpm_winnt:notice] [pid 8248:tid 584] AH00418: Parent: Created child process 8756
+[Sun Dec 27 11:57:28.840600 2015] [ssl:warn] [pid 8756:tid 588] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 11:57:29.185880 2015] [ssl:warn] [pid 8756:tid 588] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 11:57:29.214897 2015] [mpm_winnt:notice] [pid 8756:tid 588] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 12:05:06.111754 2015] [mpm_winnt:notice] [pid 8248:tid 584] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 12:05:08.113213 2015] [mpm_winnt:notice] [pid 8756:tid 588] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 12:05:08.202383 2015] [mpm_winnt:notice] [pid 8248:tid 584] AH00430: Parent: Child process 8756 exited successfully.
+[Sun Dec 27 12:05:10.844911 2015] [ssl:warn] [pid 2564:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:05:11.138106 2015] [ssl:warn] [pid 2564:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:05:11.165125 2015] [mpm_winnt:notice] [pid 2564:tid 592] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 12:05:11.165125 2015] [mpm_winnt:notice] [pid 2564:tid 592] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 12:05:11.165125 2015] [core:notice] [pid 2564:tid 592] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 12:05:11.180134 2015] [mpm_winnt:notice] [pid 2564:tid 592] AH00418: Parent: Created child process 8804
+[Sun Dec 27 12:05:12.511034 2015] [ssl:warn] [pid 8804:tid 492] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:05:12.836250 2015] [ssl:warn] [pid 8804:tid 492] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:05:12.873279 2015] [mpm_winnt:notice] [pid 8804:tid 492] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 12:06:30.395655 2015] [mpm_winnt:notice] [pid 2564:tid 592] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 12:06:32.397961 2015] [mpm_winnt:notice] [pid 8804:tid 492] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 12:06:32.426979 2015] [mpm_winnt:notice] [pid 2564:tid 592] AH00430: Parent: Child process 8804 exited successfully.
+[Sun Dec 27 12:06:34.924515 2015] [ssl:warn] [pid 2956:tid 632] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:06:35.242729 2015] [ssl:warn] [pid 2956:tid 632] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:06:35.270748 2015] [mpm_winnt:notice] [pid 2956:tid 632] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 12:06:35.270748 2015] [mpm_winnt:notice] [pid 2956:tid 632] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 12:06:35.270748 2015] [core:notice] [pid 2956:tid 632] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 12:06:35.287757 2015] [mpm_winnt:notice] [pid 2956:tid 632] AH00418: Parent: Created child process 6676
+[Sun Dec 27 12:06:37.230051 2015] [ssl:warn] [pid 6676:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:06:37.614306 2015] [ssl:warn] [pid 6676:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:06:37.652331 2015] [mpm_winnt:notice] [pid 6676:tid 592] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 12:13:07.142434 2015] [mpm_winnt:notice] [pid 2956:tid 632] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 12:13:09.144508 2015] [mpm_winnt:notice] [pid 6676:tid 592] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 12:13:09.169580 2015] [mpm_winnt:notice] [pid 2956:tid 632] AH00430: Parent: Child process 6676 exited successfully.
+[Sun Dec 27 12:13:11.471465 2015] [ssl:warn] [pid 7736:tid 452] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:13:11.804685 2015] [ssl:warn] [pid 7736:tid 452] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:13:11.830705 2015] [mpm_winnt:notice] [pid 7736:tid 452] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 12:13:11.830705 2015] [mpm_winnt:notice] [pid 7736:tid 452] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 12:13:11.830705 2015] [core:notice] [pid 7736:tid 452] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 12:13:11.847715 2015] [mpm_winnt:notice] [pid 7736:tid 452] AH00418: Parent: Created child process 1612
+[Sun Dec 27 12:13:14.088288 2015] [ssl:warn] [pid 1612:tid 528] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:13:14.383486 2015] [ssl:warn] [pid 1612:tid 528] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:13:14.418507 2015] [mpm_winnt:notice] [pid 1612:tid 528] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 12:19:43.316276 2015] [mpm_winnt:notice] [pid 7736:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 12:19:45.318273 2015] [mpm_winnt:notice] [pid 1612:tid 528] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 12:19:45.353344 2015] [mpm_winnt:notice] [pid 7736:tid 452] AH00430: Parent: Child process 1612 exited successfully.
+[Sun Dec 27 12:19:47.743262 2015] [ssl:warn] [pid 5472:tid 640] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:19:48.091492 2015] [ssl:warn] [pid 5472:tid 640] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:19:48.123513 2015] [mpm_winnt:notice] [pid 5472:tid 640] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 12:19:48.123513 2015] [mpm_winnt:notice] [pid 5472:tid 640] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 12:19:48.123513 2015] [core:notice] [pid 5472:tid 640] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 12:19:48.138522 2015] [mpm_winnt:notice] [pid 5472:tid 640] AH00418: Parent: Created child process 4736
+[Sun Dec 27 12:19:50.171890 2015] [ssl:warn] [pid 4736:tid 528] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:19:50.445071 2015] [ssl:warn] [pid 4736:tid 528] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:19:50.480095 2015] [mpm_winnt:notice] [pid 4736:tid 528] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 12:24:18.169798 2015] [mpm_winnt:notice] [pid 5472:tid 640] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 12:24:20.171477 2015] [mpm_winnt:notice] [pid 4736:tid 528] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 12:24:20.214600 2015] [mpm_winnt:notice] [pid 5472:tid 640] AH00430: Parent: Child process 4736 exited successfully.
+[Sun Dec 27 12:24:22.719411 2015] [ssl:warn] [pid 9112:tid 528] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:24:23.033629 2015] [ssl:warn] [pid 9112:tid 528] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:24:23.063651 2015] [mpm_winnt:notice] [pid 9112:tid 528] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 12:24:23.064649 2015] [mpm_winnt:notice] [pid 9112:tid 528] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 12:24:23.064649 2015] [core:notice] [pid 9112:tid 528] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 12:24:23.079659 2015] [mpm_winnt:notice] [pid 9112:tid 528] AH00418: Parent: Created child process 1252
+[Sun Dec 27 12:24:24.468618 2015] [ssl:warn] [pid 1252:tid 480] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:24:24.730826 2015] [ssl:warn] [pid 1252:tid 480] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:24:24.760851 2015] [mpm_winnt:notice] [pid 1252:tid 480] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 12:24:28.154602 2015] [mpm_winnt:notice] [pid 9112:tid 528] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 12:24:30.156273 2015] [mpm_winnt:notice] [pid 1252:tid 480] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 12:24:30.177308 2015] [mpm_winnt:notice] [pid 9112:tid 528] AH00430: Parent: Child process 1252 exited successfully.
+[Sun Dec 27 12:24:32.598977 2015] [ssl:warn] [pid 1264:tid 652] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:24:32.921189 2015] [ssl:warn] [pid 1264:tid 652] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:24:32.952210 2015] [mpm_winnt:notice] [pid 1264:tid 652] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 12:24:32.952210 2015] [mpm_winnt:notice] [pid 1264:tid 652] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 12:24:32.952210 2015] [core:notice] [pid 1264:tid 652] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 12:24:32.967220 2015] [mpm_winnt:notice] [pid 1264:tid 652] AH00418: Parent: Created child process 4836
+[Sun Dec 27 12:24:34.893928 2015] [ssl:warn] [pid 4836:tid 544] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:24:35.147097 2015] [ssl:warn] [pid 4836:tid 544] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:24:35.178117 2015] [mpm_winnt:notice] [pid 4836:tid 544] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 12:26:33.000696 2015] [mpm_winnt:notice] [pid 1264:tid 652] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 12:26:35.021267 2015] [mpm_winnt:notice] [pid 4836:tid 544] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 12:26:35.068134 2015] [mpm_winnt:notice] [pid 1264:tid 652] AH00430: Parent: Child process 4836 exited successfully.
+[Sun Dec 27 12:28:06.614611 2015] [ssl:warn] [pid 8888:tid 568] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:28:06.873802 2015] [ssl:warn] [pid 8888:tid 568] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:28:06.897818 2015] [mpm_winnt:notice] [pid 8888:tid 568] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 12:28:06.897818 2015] [mpm_winnt:notice] [pid 8888:tid 568] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 12:28:06.897818 2015] [core:notice] [pid 8888:tid 568] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 12:28:06.913828 2015] [mpm_winnt:notice] [pid 8888:tid 568] AH00418: Parent: Created child process 2484
+[Sun Dec 27 12:28:08.784105 2015] [ssl:warn] [pid 2484:tid 524] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:28:09.031327 2015] [ssl:warn] [pid 2484:tid 524] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:28:09.061333 2015] [mpm_winnt:notice] [pid 2484:tid 524] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 12:35:12.067282 2015] [mpm_winnt:notice] [pid 8888:tid 568] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 12:35:14.068902 2015] [mpm_winnt:notice] [pid 2484:tid 524] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 12:35:14.096919 2015] [mpm_winnt:notice] [pid 8888:tid 568] AH00430: Parent: Child process 2484 exited successfully.
+[Sun Dec 27 12:35:16.662916 2015] [ssl:warn] [pid 5052:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:35:17.002143 2015] [ssl:warn] [pid 5052:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:35:17.028159 2015] [mpm_winnt:notice] [pid 5052:tid 580] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 12:35:17.028159 2015] [mpm_winnt:notice] [pid 5052:tid 580] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 12:35:17.028159 2015] [core:notice] [pid 5052:tid 580] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 12:35:17.043172 2015] [mpm_winnt:notice] [pid 5052:tid 580] AH00418: Parent: Created child process 7828
+[Sun Dec 27 12:35:19.077576 2015] [ssl:warn] [pid 7828:tid 432] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:35:19.350757 2015] [ssl:warn] [pid 7828:tid 432] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 12:35:19.389780 2015] [mpm_winnt:notice] [pid 7828:tid 432] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 13:46:07.743339 2015] [mpm_winnt:notice] [pid 5052:tid 580] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 13:46:09.749672 2015] [mpm_winnt:notice] [pid 7828:tid 432] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 13:46:09.782695 2015] [mpm_winnt:notice] [pid 5052:tid 580] AH00430: Parent: Child process 7828 exited successfully.
+[Sun Dec 27 13:46:12.575553 2015] [ssl:warn] [pid 4696:tid 600] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 13:46:13.084892 2015] [ssl:warn] [pid 4696:tid 600] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 13:46:13.110909 2015] [mpm_winnt:notice] [pid 4696:tid 600] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 13:46:13.110909 2015] [mpm_winnt:notice] [pid 4696:tid 600] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 13:46:13.110909 2015] [core:notice] [pid 4696:tid 600] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 13:46:13.124919 2015] [mpm_winnt:notice] [pid 4696:tid 600] AH00418: Parent: Created child process 8040
+[Sun Dec 27 13:46:15.333388 2015] [ssl:warn] [pid 8040:tid 568] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 13:46:15.682621 2015] [ssl:warn] [pid 8040:tid 568] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 13:46:15.720646 2015] [mpm_winnt:notice] [pid 8040:tid 568] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 13:49:43.248490 2015] [mpm_winnt:notice] [pid 4696:tid 600] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 13:49:45.250476 2015] [mpm_winnt:notice] [pid 8040:tid 568] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 13:49:45.274494 2015] [mpm_winnt:notice] [pid 4696:tid 600] AH00430: Parent: Child process 8040 exited successfully.
+[Sun Dec 27 13:49:47.055144 2015] [ssl:warn] [pid 5236:tid 588] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 13:49:47.348342 2015] [ssl:warn] [pid 5236:tid 588] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 13:49:47.381363 2015] [mpm_winnt:notice] [pid 5236:tid 588] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 13:49:47.381363 2015] [mpm_winnt:notice] [pid 5236:tid 588] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 13:49:47.381363 2015] [core:notice] [pid 5236:tid 588] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 13:49:47.399376 2015] [mpm_winnt:notice] [pid 5236:tid 588] AH00418: Parent: Created child process 8028
+[Sun Dec 27 13:49:48.635197 2015] [ssl:warn] [pid 8028:tid 524] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 13:49:48.974422 2015] [ssl:warn] [pid 8028:tid 524] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 13:49:49.008447 2015] [mpm_winnt:notice] [pid 8028:tid 524] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 14:03:00.182973 2015] [mpm_winnt:notice] [pid 5236:tid 588] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 14:03:02.326458 2015] [mpm_winnt:notice] [pid 8028:tid 524] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 14:03:04.289288 2015] [mpm_winnt:notice] [pid 5236:tid 588] AH00430: Parent: Child process 8028 exited successfully.
+[Sun Dec 27 14:03:08.388550 2015] [ssl:warn] [pid 8416:tid 612] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:03:08.808830 2015] [ssl:warn] [pid 8416:tid 612] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:03:08.864868 2015] [mpm_winnt:notice] [pid 8416:tid 612] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 14:03:08.864868 2015] [mpm_winnt:notice] [pid 8416:tid 612] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 14:03:08.864868 2015] [core:notice] [pid 8416:tid 612] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 14:03:08.881879 2015] [mpm_winnt:notice] [pid 8416:tid 612] AH00418: Parent: Created child process 4696
+[Sun Dec 27 14:03:10.524973 2015] [ssl:warn] [pid 4696:tid 556] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:03:10.972270 2015] [ssl:warn] [pid 4696:tid 556] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:03:11.012297 2015] [mpm_winnt:notice] [pid 4696:tid 556] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 14:04:03.758861 2015] [authz_core:error] [pid 4696:tid 1040] [client 127.0.0.1:4839] AH01630: client denied by server configuration: C:/Server/Apache24/icons/blank.gif, referer: http://videos.isc/
+[Sun Dec 27 14:04:08.304944 2015] [authz_core:error] [pid 4696:tid 1036] [client 127.0.0.1:4844] AH01630: client denied by server configuration: C:/Server/Apache24/icons/blank.gif, referer: http://videofy.isc/
+[Sun Dec 27 14:04:13.527579 2015] [core:alert] [pid 4696:tid 1032] [client 127.0.0.1:4848] C:/Server/Apache24/htdocs/videofy/streaming-platform/Script/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Dec 27 14:04:14.510262 2015] [core:alert] [pid 4696:tid 1032] [client 127.0.0.1:4851] C:/Server/Apache24/htdocs/videofy/streaming-platform/Script/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Dec 27 14:04:14.587313 2015] [core:alert] [pid 4696:tid 1032] [client 127.0.0.1:4854] C:/Server/Apache24/htdocs/videofy/streaming-platform/Script/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Dec 27 14:04:58.451956 2015] [core:alert] [pid 4696:tid 1036] [client 127.0.0.1:4864] C:/Server/Apache24/htdocs/videofy/streaming-platform/Script/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Dec 27 14:05:02.655015 2015] [mpm_winnt:notice] [pid 8416:tid 612] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 14:05:04.657347 2015] [mpm_winnt:notice] [pid 4696:tid 556] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 14:05:04.737400 2015] [mpm_winnt:notice] [pid 8416:tid 612] AH00430: Parent: Child process 4696 exited successfully.
+[Sun Dec 27 14:05:07.470221 2015] [ssl:warn] [pid 9488:tid 644] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:05:07.824456 2015] [ssl:warn] [pid 9488:tid 644] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:05:07.850473 2015] [mpm_winnt:notice] [pid 9488:tid 644] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 14:05:07.851476 2015] [mpm_winnt:notice] [pid 9488:tid 644] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 14:05:07.851476 2015] [core:notice] [pid 9488:tid 644] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 14:05:07.866484 2015] [mpm_winnt:notice] [pid 9488:tid 644] AH00418: Parent: Created child process 9524
+[Sun Dec 27 14:05:09.258410 2015] [ssl:warn] [pid 9524:tid 536] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:05:09.671701 2015] [ssl:warn] [pid 9524:tid 536] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:05:09.714731 2015] [mpm_winnt:notice] [pid 9524:tid 536] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 14:07:13.725286 2015] [core:alert] [pid 9524:tid 1032] [client 127.0.0.1:4912] C:/Server/Apache24/htdocs/videofy/streaming-platform/Script/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Dec 27 14:07:17.785710 2015] [core:alert] [pid 9524:tid 1032] [client 127.0.0.1:4915] C:/Server/Apache24/htdocs/videofy/streaming-platform/Script/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Dec 27 14:14:06.738011 2015] [core:alert] [pid 9524:tid 1072] [client 127.0.0.1:5033] C:/Server/Apache24/htdocs/videofy/streaming-platform/Script/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Dec 27 14:14:20.908592 2015] [mpm_winnt:notice] [pid 9488:tid 644] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 14:14:22.909925 2015] [mpm_winnt:notice] [pid 9524:tid 536] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 14:14:22.951953 2015] [mpm_winnt:notice] [pid 9488:tid 644] AH00430: Parent: Child process 9524 exited successfully.
+[Sun Dec 27 14:14:25.556242 2015] [ssl:warn] [pid 5448:tid 604] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:14:26.004540 2015] [ssl:warn] [pid 5448:tid 604] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:14:26.035561 2015] [mpm_winnt:notice] [pid 5448:tid 604] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 14:14:26.035561 2015] [mpm_winnt:notice] [pid 5448:tid 604] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 14:14:26.035561 2015] [core:notice] [pid 5448:tid 604] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 14:14:26.061577 2015] [mpm_winnt:notice] [pid 5448:tid 604] AH00418: Parent: Created child process 8424
+[Sun Dec 27 14:14:27.432490 2015] [ssl:warn] [pid 8424:tid 548] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:14:27.749705 2015] [ssl:warn] [pid 8424:tid 548] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:14:27.785726 2015] [mpm_winnt:notice] [pid 8424:tid 548] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 14:14:48.421144 2015] [core:alert] [pid 8424:tid 1020] [client 127.0.0.1:5039] C:/Server/Apache24/htdocs/videofy/streaming-platform/Script/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Dec 27 14:14:51.268039 2015] [core:alert] [pid 8424:tid 1020] [client 127.0.0.1:5046] C:/Server/Apache24/htdocs/videofy/streaming-platform/Script/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Dec 27 14:14:52.337753 2015] [core:alert] [pid 8424:tid 1020] [client 127.0.0.1:5047] C:/Server/Apache24/htdocs/videofy/streaming-platform/Script/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Dec 27 14:14:53.318404 2015] [core:alert] [pid 8424:tid 1020] [client 127.0.0.1:5048] C:/Server/Apache24/htdocs/videofy/streaming-platform/Script/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Dec 27 14:15:08.365869 2015] [core:alert] [pid 8424:tid 1020] [client 127.0.0.1:5050] C:/Server/Apache24/htdocs/videofy/streaming-platform/Script/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Dec 27 14:15:18.122529 2015] [mpm_winnt:notice] [pid 5448:tid 604] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 14:15:20.125010 2015] [mpm_winnt:notice] [pid 8424:tid 548] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 14:15:20.148026 2015] [mpm_winnt:notice] [pid 5448:tid 604] AH00430: Parent: Child process 8424 exited successfully.
+[Sun Dec 27 14:15:22.372507 2015] [ssl:warn] [pid 8348:tid 588] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:15:23.498263 2015] [ssl:warn] [pid 8348:tid 588] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:15:23.865782 2015] [mpm_winnt:notice] [pid 8348:tid 588] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 14:15:23.865782 2015] [mpm_winnt:notice] [pid 8348:tid 588] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 14:15:23.865782 2015] [core:notice] [pid 8348:tid 588] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 14:15:23.880793 2015] [mpm_winnt:notice] [pid 8348:tid 588] AH00418: Parent: Created child process 6248
+[Sun Dec 27 14:15:26.273382 2015] [ssl:warn] [pid 6248:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:15:26.780394 2015] [ssl:warn] [pid 6248:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:15:26.815416 2015] [mpm_winnt:notice] [pid 6248:tid 564] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 14:15:26.821420 2015] [core:alert] [pid 6248:tid 1096] [client 127.0.0.1:5059] C:/Server/Apache24/htdocs/videofy/streaming-platform/Script/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Dec 27 14:16:03.651732 2015] [mpm_winnt:notice] [pid 8348:tid 588] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 14:16:05.663345 2015] [mpm_winnt:notice] [pid 6248:tid 564] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 14:16:05.717381 2015] [mpm_winnt:notice] [pid 8348:tid 588] AH00430: Parent: Child process 6248 exited successfully.
+[Sun Dec 27 14:16:08.081305 2015] [ssl:warn] [pid 9012:tid 600] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:16:08.545315 2015] [ssl:warn] [pid 9012:tid 600] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:16:08.612360 2015] [mpm_winnt:notice] [pid 9012:tid 600] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 14:16:08.612360 2015] [mpm_winnt:notice] [pid 9012:tid 600] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 14:16:08.612360 2015] [core:notice] [pid 9012:tid 600] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 14:16:08.627373 2015] [mpm_winnt:notice] [pid 9012:tid 600] AH00418: Parent: Created child process 9424
+[Sun Dec 27 14:16:10.031305 2015] [ssl:warn] [pid 9424:tid 492] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:16:10.410560 2015] [ssl:warn] [pid 9424:tid 492] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:16:10.445580 2015] [mpm_winnt:notice] [pid 9424:tid 492] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 14:18:55.816212 2015] [:error] [pid 9424:tid 1012] [client 127.0.0.1:5160] PHP Fatal error:  Call to undefined function imagecreate() in C:\\Server\\Apache24\\htdocs\\videofy\\streaming-platform\\Script\\includes\\captcha.php on line 22, referer: http://stream.videofy.isc/index.php?a=admin&m=s
+[Sun Dec 27 14:19:17.012091 2015] [:error] [pid 9424:tid 1012] [client 127.0.0.1:5176] PHP Fatal error:  Call to undefined function imagecreate() in C:\\Server\\Apache24\\htdocs\\videofy\\streaming-platform\\Script\\includes\\captcha.php on line 22, referer: http://stream.videofy.isc/index.php?a=admin&b=security&m=s
+[Sun Dec 27 14:19:40.953922 2015] [:error] [pid 9424:tid 1012] [client 127.0.0.1:5176] PHP Fatal error:  Call to undefined function imagecreate() in C:\\Server\\Apache24\\htdocs\\videofy\\streaming-platform\\Script\\includes\\captcha.php on line 22, referer: http://stream.videofy.isc/index.php?a=welcome
+[Sun Dec 27 14:19:45.589006 2015] [:error] [pid 9424:tid 1012] [client 127.0.0.1:5176] PHP Fatal error:  Call to undefined function imagecreate() in C:\\Server\\Apache24\\htdocs\\videofy\\streaming-platform\\Script\\includes\\captcha.php on line 22
+[Sun Dec 27 14:26:15.508447 2015] [mpm_winnt:notice] [pid 9012:tid 600] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 14:26:17.510705 2015] [mpm_winnt:notice] [pid 9424:tid 492] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 14:26:17.578894 2015] [mpm_winnt:notice] [pid 9012:tid 600] AH00430: Parent: Child process 9424 exited successfully.
+[Sun Dec 27 14:26:19.762219 2015] [ssl:warn] [pid 4944:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:26:20.085465 2015] [ssl:warn] [pid 4944:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:26:20.610954 2015] [mpm_winnt:notice] [pid 4944:tid 580] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 14:26:20.610954 2015] [mpm_winnt:notice] [pid 4944:tid 580] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 14:26:20.610954 2015] [core:notice] [pid 4944:tid 580] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 14:26:20.625960 2015] [mpm_winnt:notice] [pid 4944:tid 580] AH00418: Parent: Created child process 5420
+[Sun Dec 27 14:26:21.880796 2015] [ssl:warn] [pid 5420:tid 596] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:26:22.161983 2015] [ssl:warn] [pid 5420:tid 596] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:26:22.194009 2015] [mpm_winnt:notice] [pid 5420:tid 596] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 14:26:29.684020 2015] [:error] [pid 5420:tid 1032] [client ::1:5407] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\\Server\\Apache24\\htdocs\\phpinfo.php on line 2
+[Sun Dec 27 14:28:21.092645 2015] [:error] [pid 5420:tid 1032] [client ::1:5488] PHP Warning:  phpinfo(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in C:\\Server\\Apache24\\htdocs\\phpinfo.php on line 2
+[Sun Dec 27 14:35:09.253546 2015] [mpm_winnt:notice] [pid 4944:tid 580] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 14:35:11.255504 2015] [mpm_winnt:notice] [pid 5420:tid 596] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 14:35:11.394038 2015] [mpm_winnt:notice] [pid 4944:tid 580] AH00430: Parent: Child process 5420 exited successfully.
+[Sun Dec 27 14:40:33.741133 2015] [ssl:warn] [pid 3500:tid 624] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:40:34.125478 2015] [ssl:warn] [pid 3500:tid 624] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:40:34.151492 2015] [mpm_winnt:notice] [pid 3500:tid 624] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 14:40:34.151492 2015] [mpm_winnt:notice] [pid 3500:tid 624] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 14:40:34.151492 2015] [core:notice] [pid 3500:tid 624] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 14:40:34.168503 2015] [mpm_winnt:notice] [pid 3500:tid 624] AH00418: Parent: Created child process 9224
+[Sun Dec 27 14:40:36.340432 2015] [ssl:warn] [pid 9224:tid 524] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:40:36.600846 2015] [ssl:warn] [pid 9224:tid 524] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:40:36.631868 2015] [mpm_winnt:notice] [pid 9224:tid 524] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 14:41:03.092290 2015] [authz_core:error] [pid 9224:tid 1036] [client ::1:5740] AH01630: client denied by server configuration: C:/Server/Apache24/icons/blank.gif, referer: http://localhost/apachestats/
+[Sun Dec 27 14:41:03.093291 2015] [authz_core:error] [pid 9224:tid 1028] [client ::1:5742] AH01630: client denied by server configuration: C:/Server/Apache24/icons/back.gif, referer: http://localhost/apachestats/
+[Sun Dec 27 14:41:03.094291 2015] [authz_core:error] [pid 9224:tid 1012] [client ::1:5744] AH01630: client denied by server configuration: C:/Server/Apache24/icons/image2.gif, referer: http://localhost/apachestats/
+[Sun Dec 27 14:41:03.094291 2015] [authz_core:error] [pid 9224:tid 1016] [client ::1:5743] AH01630: client denied by server configuration: C:/Server/Apache24/icons/text.gif, referer: http://localhost/apachestats/
+[Sun Dec 27 14:43:50.116610 2015] [mpm_winnt:notice] [pid 3500:tid 624] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 14:43:52.118710 2015] [mpm_winnt:notice] [pid 9224:tid 524] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 14:43:52.157735 2015] [mpm_winnt:notice] [pid 3500:tid 624] AH00430: Parent: Child process 9224 exited successfully.
+[Sun Dec 27 14:52:28.250256 2015] [ssl:warn] [pid 1240:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:52:29.019767 2015] [ssl:warn] [pid 1240:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:52:29.066800 2015] [mpm_winnt:notice] [pid 1240:tid 564] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Sun Dec 27 14:52:29.066800 2015] [mpm_winnt:notice] [pid 1240:tid 564] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Sun Dec 27 14:52:29.066800 2015] [core:notice] [pid 1240:tid 564] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Sun Dec 27 14:52:29.087813 2015] [mpm_winnt:notice] [pid 1240:tid 564] AH00418: Parent: Created child process 3248
+[Sun Dec 27 14:52:32.284941 2015] [ssl:warn] [pid 3248:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:52:32.658204 2015] [ssl:warn] [pid 3248:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 27 14:52:32.704236 2015] [mpm_winnt:notice] [pid 3248:tid 592] AH00354: Child: Starting 50 worker threads.
+[Sun Dec 27 14:52:32.708238 2015] [authz_core:error] [pid 3248:tid 1048] [client ::1:6510] AH01630: client denied by server configuration: C:/Server/Apache24/htdocs/server-info
+[Sun Dec 27 14:55:11.089341 2015] [mpm_winnt:notice] [pid 1240:tid 564] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Dec 27 14:55:13.091672 2015] [mpm_winnt:notice] [pid 3248:tid 592] AH00364: Child: All worker threads have exited.
+[Sun Dec 27 14:55:13.121691 2015] [mpm_winnt:notice] [pid 1240:tid 564] AH00430: Parent: Child process 3248 exited successfully.
+[Tue Dec 29 14:28:57.152770 2015] [ssl:warn] [pid 6932:tid 644] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 29 14:28:57.512167 2015] [ssl:warn] [pid 6932:tid 644] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 29 14:28:58.355961 2015] [mpm_winnt:notice] [pid 6932:tid 644] AH00455: Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.11 configured -- resuming normal operations
+[Tue Dec 29 14:28:58.355961 2015] [mpm_winnt:notice] [pid 6932:tid 644] AH00456: Apache Lounge VC14 Server built: Dec  9 2015 10:17:39
+[Tue Dec 29 14:28:58.355961 2015] [core:notice] [pid 6932:tid 644] AH00094: Command line: 'C:\\Server\\Apache24\\bin\\httpd.exe -d C:/Server/Apache24'
+[Tue Dec 29 14:28:58.371586 2015] [mpm_winnt:notice] [pid 6932:tid 644] AH00418: Parent: Created child process 7556
+[Tue Dec 29 14:29:00.441411 2015] [ssl:warn] [pid 7556:tid 524] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 29 14:29:00.769556 2015] [ssl:warn] [pid 7556:tid 524] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 29 14:29:00.800806 2015] [mpm_winnt:notice] [pid 7556:tid 524] AH00354: Child: Starting 50 worker threads.
+[Tue Dec 29 18:24:14.521241 2015] [mpm_winnt:notice] [pid 6932:tid 644] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Dec 29 18:24:16.708858 2015] [mpm_winnt:notice] [pid 7556:tid 524] AH00364: Child: All worker threads have exited.
+[Tue Dec 29 18:24:19.224585 2015] [mpm_winnt:notice] [pid 6932:tid 644] AH00430: Parent: Child process 7556 exited successfully.

@@ -1,0 +1,642 @@
+::1 - - [26/Dec/2015:16:15:37 +0100] "GET /server-info HTTP/1.1" 403 220
+127.0.0.1 - - [26/Dec/2015:16:15:51 +0100] "GET / HTTP/1.1" 200 14823
+127.0.0.1 - - [26/Dec/2015:16:15:51 +0100] "GET /css/stylish-portfolio.css HTTP/1.1" 200 3750
+127.0.0.1 - - [26/Dec/2015:16:15:51 +0100] "GET /font-awesome-4.1.0/css/font-awesome.min.css HTTP/1.1" 200 20766
+127.0.0.1 - - [26/Dec/2015:16:15:51 +0100] "GET /css/bootstrap.min.css HTTP/1.1" 200 109535
+127.0.0.1 - - [26/Dec/2015:16:15:51 +0100] "GET /js/bootstrap.min.js HTTP/1.1" 200 31833
+127.0.0.1 - - [26/Dec/2015:16:15:51 +0100] "GET /js/jquery-1.11.0.js HTTP/1.1" 200 96394
+127.0.0.1 - - [26/Dec/2015:16:15:51 +0100] "GET /img/portfolio-1.jpg HTTP/1.1" 200 19099
+127.0.0.1 - - [26/Dec/2015:16:15:51 +0100] "GET /img/portfolio-4.jpg HTTP/1.1" 200 19958
+127.0.0.1 - - [26/Dec/2015:16:15:51 +0100] "GET /img/portfolio-3.jpg HTTP/1.1" 200 34904
+127.0.0.1 - - [26/Dec/2015:16:15:51 +0100] "GET /img/portfolio-2.jpg HTTP/1.1" 200 32441
+127.0.0.1 - - [26/Dec/2015:16:15:52 +0100] "GET /img/callout.jpg HTTP/1.1" 200 61154
+127.0.0.1 - - [26/Dec/2015:16:15:52 +0100] "GET /img/bg.jpg HTTP/1.1" 200 158488
+127.0.0.1 - - [26/Dec/2015:16:15:52 +0100] "GET /font-awesome-4.1.0/fonts/fontawesome-webfont.woff?v=4.1.0 HTTP/1.1" 200 83760
+127.0.0.1 - - [26/Dec/2015:16:15:53 +0100] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [26/Dec/2015:16:15:54 +0100] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [26/Dec/2015:16:22:28 +0100] "GET" 400 226
+::1 - - [26/Dec/2015:16:42:01 +0100] "GET /apachehaus.ico HTTP/1.1" 404 212
+127.0.0.1 - - [26/Dec/2015:16:43:09 +0100] "GET / HTTP/1.1" 200 67
+127.0.0.1 - - [26/Dec/2015:16:43:10 +0100] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [26/Dec/2015:16:43:10 +0100] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [26/Dec/2015:16:43:17 +0100] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [26/Dec/2015:16:44:53 +0100] "GET / HTTP/1.1" 200 14823
+127.0.0.1 - - [26/Dec/2015:16:44:54 +0100] "GET /css/bootstrap.min.css HTTP/1.1" 200 109535
+127.0.0.1 - - [26/Dec/2015:16:44:54 +0100] "GET /js/bootstrap.min.js HTTP/1.1" 200 31833
+127.0.0.1 - - [26/Dec/2015:16:44:54 +0100] "GET /css/stylish-portfolio.css HTTP/1.1" 200 3750
+127.0.0.1 - - [26/Dec/2015:16:44:54 +0100] "GET /font-awesome-4.1.0/css/font-awesome.min.css HTTP/1.1" 200 20766
+127.0.0.1 - - [26/Dec/2015:16:44:54 +0100] "GET /js/jquery-1.11.0.js HTTP/1.1" 200 96394
+127.0.0.1 - - [26/Dec/2015:16:44:54 +0100] "GET /img/portfolio-1.jpg HTTP/1.1" 200 19099
+127.0.0.1 - - [26/Dec/2015:16:44:54 +0100] "GET /img/portfolio-2.jpg HTTP/1.1" 200 32441
+127.0.0.1 - - [26/Dec/2015:16:44:54 +0100] "GET /img/portfolio-3.jpg HTTP/1.1" 200 34904
+127.0.0.1 - - [26/Dec/2015:16:44:54 +0100] "GET /img/portfolio-4.jpg HTTP/1.1" 200 19958
+127.0.0.1 - - [26/Dec/2015:16:44:54 +0100] "GET /img/callout.jpg HTTP/1.1" 200 61154
+127.0.0.1 - - [26/Dec/2015:16:44:54 +0100] "GET /img/bg.jpg HTTP/1.1" 200 158488
+127.0.0.1 - - [26/Dec/2015:16:44:54 +0100] "GET /font-awesome-4.1.0/fonts/fontawesome-webfont.woff?v=4.1.0 HTTP/1.1" 200 83760
+::1 - - [26/Dec/2015:16:47:12 +0100] "GET /server-info HTTP/1.1" 403 220
+::1 - - [26/Dec/2015:16:47:14 +0100] "GET /server-info HTTP/1.1" 403 220
+::1 - - [26/Dec/2015:16:47:16 +0100] "GET /server-info HTTP/1.1" 403 220
+::1 - - [26/Dec/2015:16:47:17 +0100] "GET /server-info HTTP/1.1" 403 220
+::1 - - [26/Dec/2015:16:47:18 +0100] "GET /server-info HTTP/1.1" 403 220
+::1 - - [26/Dec/2015:16:47:19 +0100] "GET /server-info HTTP/1.1" 403 220
+127.0.0.1 - - [26/Dec/2015:16:47:25 +0100] "GET /server-info HTTP/1.1" 200 72060
+127.0.0.1 - - [26/Dec/2015:16:47:25 +0100] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [26/Dec/2015:16:47:25 +0100] "GET /favicon.ico HTTP/1.1" 404 209
+127.0.0.1 - - [26/Dec/2015:16:49:10 +0100] "GET /server-info HTTP/1.1" 200 71844
+::1 - - [26/Dec/2015:16:49:14 +0100] "GET /server-info HTTP/1.1" 200 71844
+127.0.0.1 - - [26/Dec/2015:16:49:19 +0100] "GET /server-info HTTP/1.1" 200 71847
+::1 - - [26/Dec/2015:16:51:08 +0100] "GET /apachehaus.ico HTTP/1.1" 404 212
+::1 - - [26/Dec/2015:16:51:09 +0100] "GET /server-info HTTP/1.1" 403 220
+127.0.0.1 - - [26/Dec/2015:16:51:17 +0100] "GET /server-info HTTP/1.1" 200 72060
+127.0.0.1 - - [26/Dec/2015:16:52:30 +0100] "GET /font-awesome-4.1.0/fonts/fontawesome-webfont.woff?v=4.1.0 HTTP/1.1" 304 -
+127.0.0.1 - - [26/Dec/2015:16:53:25 +0100] "GET /server-info HTTP/1.1" 200 72060
+127.0.0.1 - - [26/Dec/2015:16:53:31 +0100] "GET /font-awesome-4.1.0/fonts/fontawesome-webfont.woff?v=4.1.0 HTTP/1.1" 304 -
+::1 - - [26/Dec/2015:17:09:26 +0100] "GET /apachehaus.ico HTTP/1.1" 500 652
+::1 - - [26/Dec/2015:17:09:26 +0100] "GET /apachehaus.ico HTTP/1.1" 500 652 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [26/Dec/2015:17:10:00 +0100] "GET /apachehaus.ico HTTP/1.1" 500 641
+::1 - - [26/Dec/2015:17:10:00 +0100] "GET /apachehaus.ico HTTP/1.1" 500 641 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [26/Dec/2015:17:10:05 +0100] "GET /phpPgAdmin/images/themes/default/Favicon.ico HTTP/1.1" 500 641
+::1 - - [26/Dec/2015:17:10:05 +0100] "GET /phpPgAdmin/images/themes/default/Favicon.ico HTTP/1.1" 500 641 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [26/Dec/2015:17:10:08 +0100] "GET /phpinfo.php HTTP/1.1" 500 641
+::1 - - [26/Dec/2015:17:10:08 +0100] "GET /phpinfo.php HTTP/1.1" 500 641 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [26/Dec/2015:17:10:25 +0100] "GET /apachehaus.ico HTTP/1.1" 500 652
+::1 - - [26/Dec/2015:17:10:25 +0100] "GET /apachehaus.ico HTTP/1.1" 500 652 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [26/Dec/2015:17:10:28 +0100] "GET /phpinfo.php HTTP/1.1" 500 652
+::1 - - [26/Dec/2015:17:10:28 +0100] "GET /phpinfo.php HTTP/1.1" 500 652 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [26/Dec/2015:17:10:30 +0100] "GET /phpinfo.php HTTP/1.1" 500 652
+::1 - - [26/Dec/2015:17:10:30 +0100] "GET /phpinfo.php HTTP/1.1" 500 652 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [26/Dec/2015:17:10:32 +0100] "GET /phpinfo.php HTTP/1.1" 500 652
+::1 - - [26/Dec/2015:17:10:32 +0100] "GET /phpinfo.php HTTP/1.1" 500 652 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [26/Dec/2015:17:11:08 +0100] "GET /phpinfo.php HTTP/1.1" 500 652
+::1 - - [26/Dec/2015:17:11:08 +0100] "GET /phpinfo.php HTTP/1.1" 500 652 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [26/Dec/2015:17:11:10 +0100] "GET /apachehaus.ico HTTP/1.1" 500 652
+::1 - - [26/Dec/2015:17:11:10 +0100] "GET /apachehaus.ico HTTP/1.1" 500 652 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [26/Dec/2015:17:11:21 +0100] "GET /responseserver.php HTTP/1.1" 500 652
+::1 - - [26/Dec/2015:17:11:21 +0100] "GET /responseserver.php HTTP/1.1" 500 652 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [26/Dec/2015:17:11:26 +0100] "GET /responsesersds HTTP/1.1" 500 652
+::1 - - [26/Dec/2015:17:11:26 +0100] "GET /responsesersds HTTP/1.1" 500 652 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [26/Dec/2015:17:11:39 +0100] "GET /responsesersds HTTP/1.1" 404 312
+::1 - - [26/Dec/2015:17:11:39 +0100] "GET /responsesersds HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [26/Dec/2015:17:12:06 +0100] "GET /phpPgAdmin/images/themes/default/Favicon.ico HTTP/1.1" 200 1406
+::1 - - [26/Dec/2015:17:12:06 +0100] "GET /phpPgAdmin/images/themes/default/Favicon.ico HTTP/1.1" 200 1406 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [26/Dec/2015:17:12:08 +0100] "GET /phpinfo.php HTTP/1.1" 200 19
+::1 - - [26/Dec/2015:17:12:08 +0100] "GET /phpinfo.php HTTP/1.1" 200 19 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [26/Dec/2015:17:12:29 +0100] "GET /phpinfo.php HTTP/1.1" 200 98321
+::1 - - [26/Dec/2015:17:12:29 +0100] "GET /phpinfo.php HTTP/1.1" 200 98321 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:17:12 +0100] "GET / HTTP/1.1" 200 14746
+127.0.0.1 - - [26/Dec/2015:17:17:13 +0100] "GET /css/bootstrap.min.css HTTP/1.1" 200 109535
+127.0.0.1 - - [26/Dec/2015:17:17:13 +0100] "GET /font-awesome-4.1.0/css/font-awesome.min.css HTTP/1.1" 200 20766
+127.0.0.1 - - [26/Dec/2015:17:17:13 +0100] "GET /css/stylish-portfolio.css HTTP/1.1" 200 3750
+127.0.0.1 - - [26/Dec/2015:17:17:13 +0100] "GET /img/portfolio-1.jpg HTTP/1.1" 200 19099
+127.0.0.1 - - [26/Dec/2015:17:17:13 +0100] "GET /img/portfolio-3.jpg HTTP/1.1" 200 34904
+127.0.0.1 - - [26/Dec/2015:17:17:13 +0100] "GET /img/portfolio-4.jpg HTTP/1.1" 200 19958
+127.0.0.1 - - [26/Dec/2015:17:17:13 +0100] "GET /js/bootstrap.min.js HTTP/1.1" 200 31833
+127.0.0.1 - - [26/Dec/2015:17:17:13 +0100] "GET /js/jquery-1.11.0.js HTTP/1.1" 200 96394
+127.0.0.1 - - [26/Dec/2015:17:17:13 +0100] "GET /img/portfolio-2.jpg HTTP/1.1" 200 32441
+127.0.0.1 - - [26/Dec/2015:17:17:13 +0100] "GET /font-awesome-4.1.0/fonts/fontawesome-webfont.woff?v=4.1.0 HTTP/1.1" 200 83760
+127.0.0.1 - - [26/Dec/2015:17:17:13 +0100] "GET /img/callout.jpg HTTP/1.1" 200 61154
+127.0.0.1 - - [26/Dec/2015:17:17:13 +0100] "GET /img/bg.jpg HTTP/1.1" 200 158488
+127.0.0.1 - - [26/Dec/2015:17:19:11 +0100] "GET / HTTP/1.1" 200 467
+127.0.0.1 - - [26/Dec/2015:17:19:11 +0100] "GET / HTTP/1.1" 200 467 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:12 +0100] "GET /icons/blank.gif HTTP/1.1" 403 332
+127.0.0.1 - - [26/Dec/2015:17:19:12 +0100] "GET /icons/blank.gif HTTP/1.1" 403 332 "http://mediawiki.inc.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:13 +0100] "GET /favicon.ico HTTP/1.1" 404 317
+127.0.0.1 - - [26/Dec/2015:17:19:13 +0100] "GET /favicon.ico HTTP/1.1" 404 317 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:13 +0100] "GET /favicon.ico HTTP/1.1" 404 317
+127.0.0.1 - - [26/Dec/2015:17:19:13 +0100] "GET /favicon.ico HTTP/1.1" 404 317 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:18 +0100] "GET / HTTP/1.1" 302 -
+127.0.0.1 - - [26/Dec/2015:17:19:18 +0100] "GET / HTTP/1.1" 302 - "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:18 +0100] "GET /doku.php HTTP/1.1" 200 9030
+127.0.0.1 - - [26/Dec/2015:17:19:18 +0100] "GET /doku.php HTTP/1.1" 200 9030 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:22 +0100] "GET /lib/exe/js.php?t=dokuwiki&tseed=8ac7825153d2a888af57a7998431e77f HTTP/1.1" 200 500828
+127.0.0.1 - - [26/Dec/2015:17:19:22 +0100] "GET /lib/exe/js.php?t=dokuwiki&tseed=8ac7825153d2a888af57a7998431e77f HTTP/1.1" 200 500828 "http://dokuwiki.inc.isc/doku.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:22 +0100] "GET /lib/exe/css.php?t=dokuwiki&tseed=8ac7825153d2a888af57a7998431e77f HTTP/1.1" 200 145606
+127.0.0.1 - - [26/Dec/2015:17:19:22 +0100] "GET /lib/exe/css.php?t=dokuwiki&tseed=8ac7825153d2a888af57a7998431e77f HTTP/1.1" 200 145606 "http://dokuwiki.inc.isc/doku.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/logo.png HTTP/1.1" 200 3744
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/logo.png HTTP/1.1" 200 3744 "http://dokuwiki.inc.isc/doku.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/button-donate.gif HTTP/1.1" 200 187
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/button-donate.gif HTTP/1.1" 200 187 "http://dokuwiki.inc.isc/doku.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/button-html5.png HTTP/1.1" 200 305
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/button-html5.png HTTP/1.1" 200 305 "http://dokuwiki.inc.isc/doku.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/button-dw.png HTTP/1.1" 200 398
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/button-dw.png HTTP/1.1" 200 398 "http://dokuwiki.inc.isc/doku.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/button-css.png HTTP/1.1" 200 297
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/button-css.png HTTP/1.1" 200 297 "http://dokuwiki.inc.isc/doku.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/button-php.gif HTTP/1.1" 200 207
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/button-php.gif HTTP/1.1" 200 207 "http://dokuwiki.inc.isc/doku.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/page-gradient.png HTTP/1.1" 200 209
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/page-gradient.png HTTP/1.1" 200 209 "http://dokuwiki.inc.isc/lib/exe/css.php?t=dokuwiki&tseed=8ac7825153d2a888af57a7998431e77f" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/search.png HTTP/1.1" 200 307
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/search.png HTTP/1.1" 200 307 "http://dokuwiki.inc.isc/lib/exe/css.php?t=dokuwiki&tseed=8ac7825153d2a888af57a7998431e77f" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/usertools.png HTTP/1.1" 200 1428
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/usertools.png HTTP/1.1" 200 1428 "http://dokuwiki.inc.isc/lib/exe/css.php?t=dokuwiki&tseed=8ac7825153d2a888af57a7998431e77f" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/pagetools-sprite.png?v=2 HTTP/1.1" 200 7759
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/pagetools-sprite.png?v=2 HTTP/1.1" 200 7759 "http://dokuwiki.inc.isc/lib/exe/css.php?t=dokuwiki&tseed=8ac7825153d2a888af57a7998431e77f" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/favicon.ico HTTP/1.1" 200 7406
+127.0.0.1 - - [26/Dec/2015:17:19:23 +0100] "GET /lib/tpl/dokuwiki/images/favicon.ico HTTP/1.1" 200 7406 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:28 +0100] "GET / HTTP/1.1" 200 457
+127.0.0.1 - - [26/Dec/2015:17:19:28 +0100] "GET / HTTP/1.1" 200 457 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:28 +0100] "GET /icons/blank.gif HTTP/1.1" 403 322
+127.0.0.1 - - [26/Dec/2015:17:19:28 +0100] "GET /icons/blank.gif HTTP/1.1" 403 322 "http://inc.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:29 +0100] "GET /favicon.ico HTTP/1.1" 404 307
+127.0.0.1 - - [26/Dec/2015:17:19:29 +0100] "GET /favicon.ico HTTP/1.1" 404 307 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:29 +0100] "GET /favicon.ico HTTP/1.1" 404 307
+127.0.0.1 - - [26/Dec/2015:17:19:29 +0100] "GET /favicon.ico HTTP/1.1" 404 307 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:28 +0100] "GET /lib/exe/indexer.php?id=start&1451146762 HTTP/1.1" 200 42
+127.0.0.1 - - [26/Dec/2015:17:19:28 +0100] "GET /lib/exe/indexer.php?id=start&1451146762 HTTP/1.1" 200 42 "http://dokuwiki.inc.isc/doku.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:29 +0100] "GET /doku.php HTTP/1.1" 200 9030
+127.0.0.1 - - [26/Dec/2015:17:19:29 +0100] "GET /doku.php HTTP/1.1" 200 9030 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:30 +0100] "GET /lib/exe/indexer.php?id=start&1451146770 HTTP/1.1" 200 42
+127.0.0.1 - - [26/Dec/2015:17:19:30 +0100] "GET /lib/exe/indexer.php?id=start&1451146770 HTTP/1.1" 200 42 "http://dokuwiki.inc.isc/doku.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:36 +0100] "POST /doku.php HTTP/1.1" 302 -
+127.0.0.1 - - [26/Dec/2015:17:19:36 +0100] "POST /doku.php HTTP/1.1" 302 - "http://dokuwiki.inc.isc/doku.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:37 +0100] "GET /doku.php?id=start HTTP/1.1" 200 11615
+127.0.0.1 - - [26/Dec/2015:17:19:37 +0100] "GET /doku.php?id=start HTTP/1.1" 200 11615 "http://dokuwiki.inc.isc/doku.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:38 +0100] "GET /lib/exe/indexer.php?id=start&1451146777 HTTP/1.1" 200 42
+127.0.0.1 - - [26/Dec/2015:17:19:38 +0100] "GET /lib/exe/indexer.php?id=start&1451146777 HTTP/1.1" 200 42 "http://dokuwiki.inc.isc/doku.php?id=start" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:38 +0100] "GET /lib/tpl/dokuwiki/images/toc-bullet.png HTTP/1.1" 200 113
+127.0.0.1 - - [26/Dec/2015:17:19:38 +0100] "GET /lib/tpl/dokuwiki/images/toc-bullet.png HTTP/1.1" 200 113 "http://dokuwiki.inc.isc/lib/exe/css.php?t=dokuwiki&tseed=8ac7825153d2a888af57a7998431e77f" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:38 +0100] "GET /lib/tpl/dokuwiki/images/toc-arrows.png HTTP/1.1" 200 225
+127.0.0.1 - - [26/Dec/2015:17:19:38 +0100] "GET /lib/tpl/dokuwiki/images/toc-arrows.png HTTP/1.1" 200 225 "http://dokuwiki.inc.isc/lib/exe/css.php?t=dokuwiki&tseed=8ac7825153d2a888af57a7998431e77f" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:43 +0100] "GET /doku.php?id=start HTTP/1.1" 200 11615
+127.0.0.1 - - [26/Dec/2015:17:19:43 +0100] "GET /doku.php?id=start HTTP/1.1" 200 11615 "http://dokuwiki.inc.isc/doku.php?id=start" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:19:44 +0100] "GET /lib/exe/indexer.php?id=start&1451146783 HTTP/1.1" 200 42
+127.0.0.1 - - [26/Dec/2015:17:19:44 +0100] "GET /lib/exe/indexer.php?id=start&1451146783 HTTP/1.1" 200 42 "http://dokuwiki.inc.isc/doku.php?id=start" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:27:36 +0100] "GET / HTTP/1.1" 200 461
+127.0.0.1 - - [26/Dec/2015:17:27:36 +0100] "GET / HTTP/1.1" 200 461 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:27:36 +0100] "GET /icons/blank.gif HTTP/1.1" 403 326
+127.0.0.1 - - [26/Dec/2015:17:27:36 +0100] "GET /icons/blank.gif HTTP/1.1" 403 326 "http://videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:27:37 +0100] "GET /favicon.ico HTTP/1.1" 404 311
+127.0.0.1 - - [26/Dec/2015:17:27:37 +0100] "GET /favicon.ico HTTP/1.1" 404 311 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:27:37 +0100] "GET /favicon.ico HTTP/1.1" 404 311
+127.0.0.1 - - [26/Dec/2015:17:27:37 +0100] "GET /favicon.ico HTTP/1.1" 404 311 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:27:39 +0100] "GET / HTTP/1.1" 200 460
+127.0.0.1 - - [26/Dec/2015:17:27:39 +0100] "GET / HTTP/1.1" 200 460 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:27:40 +0100] "GET /icons/blank.gif HTTP/1.1" 403 325
+127.0.0.1 - - [26/Dec/2015:17:27:40 +0100] "GET /icons/blank.gif HTTP/1.1" 403 325 "http://videos.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:27:40 +0100] "GET /favicon.ico HTTP/1.1" 404 310
+127.0.0.1 - - [26/Dec/2015:17:27:40 +0100] "GET /favicon.ico HTTP/1.1" 404 310 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:27:40 +0100] "GET /favicon.ico HTTP/1.1" 404 310
+127.0.0.1 - - [26/Dec/2015:17:27:40 +0100] "GET /favicon.ico HTTP/1.1" 404 310 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:27:46 +0100] "GET / HTTP/1.1" 200 468
+127.0.0.1 - - [26/Dec/2015:17:27:46 +0100] "GET / HTTP/1.1" 200 468 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:27:47 +0100] "GET /icons/blank.gif HTTP/1.1" 403 333
+127.0.0.1 - - [26/Dec/2015:17:27:47 +0100] "GET /icons/blank.gif HTTP/1.1" 403 333 "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:27:47 +0100] "GET /favicon.ico HTTP/1.1" 404 318
+127.0.0.1 - - [26/Dec/2015:17:27:47 +0100] "GET /favicon.ico HTTP/1.1" 404 318 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [26/Dec/2015:17:27:47 +0100] "GET /favicon.ico HTTP/1.1" 404 318
+127.0.0.1 - - [26/Dec/2015:17:27:47 +0100] "GET /favicon.ico HTTP/1.1" 404 318 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:11:57:40 +0100] "GET /favicon.ico HTTP/1.1" 404 309
+::1 - - [27/Dec/2015:11:57:40 +0100] "GET /favicon.ico HTTP/1.1" 404 309 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:11:57:41 +0100] "GET /favicon.ico HTTP/1.1" 404 309
+::1 - - [27/Dec/2015:11:57:41 +0100] "GET /favicon.ico HTTP/1.1" 404 309 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:11:57:42 +0100] "GET / HTTP/1.1" 304 -
+::1 - - [27/Dec/2015:11:57:42 +0100] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:12:01:24 +0100] "GET /font-awesome-4.1.0/fonts/fontawesome-webfont.woff?v=4.1.0 HTTP/1.1" 200 83760
+127.0.0.1 - - [27/Dec/2015:12:01:24 +0100] "GET /font-awesome-4.1.0/fonts/fontawesome-webfont.woff?v=4.1.0 HTTP/1.1" 200 83760 "http://farm.inc.isc/font-awesome-4.1.0/css/font-awesome.min.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:12:01:26 +0100] "GET /favicon.ico HTTP/1.1" 404 312
+127.0.0.1 - - [27/Dec/2015:12:01:26 +0100] "GET /favicon.ico HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:12:01:26 +0100] "GET /favicon.ico HTTP/1.1" 404 312
+127.0.0.1 - - [27/Dec/2015:12:01:26 +0100] "GET /favicon.ico HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:12:01:34 +0100] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:12:01:35 +0100] "GET /font-awesome-4.1.0/css/font-awesome.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:12:01:36 +0100] "GET /css/stylish-portfolio.css HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:12:01:35 +0100] "GET /css/bootstrap.min.css HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:12:01:36 +0100] "GET /img/portfolio-3.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:12:01:36 +0100] "GET /img/portfolio-2.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:12:01:36 +0100] "GET /img/portfolio-4.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:12:01:36 +0100] "GET /img/portfolio-1.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:12:01:36 +0100] "GET /js/jquery-1.11.0.js HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:12:01:37 +0100] "GET /font-awesome-4.1.0/fonts/fontawesome-webfont.woff?v=4.1.0 HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:12:01:37 +0100] "GET /js/bootstrap.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:12:01:37 +0100] "GET /img/callout.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:12:01:37 +0100] "GET /img/bg.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:12:01:38 +0100] "GET /favicon.ico HTTP/1.1" 404 313
+127.0.0.1 - - [27/Dec/2015:12:01:39 +0100] "GET /favicon.ico HTTP/1.1" 404 313
+::1 - - [27/Dec/2015:12:20:13 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312
+::1 - - [27/Dec/2015:12:20:13 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:12:20:18 +0100] "GET / HTTP/1.1" 200 67
+::1 - - [27/Dec/2015:12:20:18 +0100] "GET /favicon.ico HTTP/1.1" 404 310
+::1 - - [27/Dec/2015:12:20:18 +0100] "GET /favicon.ico HTTP/1.1" 404 310
+::1 - - [27/Dec/2015:12:24:40 +0100] "GET / HTTP/1.1" 304 -
+::1 - - [27/Dec/2015:12:24:40 +0100] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:12:24:43 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312
+::1 - - [27/Dec/2015:12:24:43 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:12:28:14 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312
+::1 - - [27/Dec/2015:12:28:14 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:12:28:15 +0100] "GET /favicon.ico HTTP/1.1" 404 309
+::1 - - [27/Dec/2015:12:28:15 +0100] "GET /favicon.ico HTTP/1.1" 404 309 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:12:28:15 +0100] "GET /favicon.ico HTTP/1.1" 404 309
+::1 - - [27/Dec/2015:12:28:15 +0100] "GET /favicon.ico HTTP/1.1" 404 309 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:12:28:18 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312
+::1 - - [27/Dec/2015:12:28:18 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:12:33:18 +0100] "GET /font-awesome-4.1.0/fonts/fontawesome-webfont.woff?v=4.1.0 HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:12:33:18 +0100] "GET /font-awesome-4.1.0/fonts/fontawesome-webfont.woff?v=4.1.0 HTTP/1.1" 304 - "http://farm.inc.isc/font-awesome-4.1.0/css/font-awesome.min.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:12:33:23 +0100] "GET /favicon.ico HTTP/1.1" 404 312
+127.0.0.1 - - [27/Dec/2015:12:33:23 +0100] "GET /favicon.ico HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:12:33:23 +0100] "GET /favicon.ico HTTP/1.1" 404 312
+127.0.0.1 - - [27/Dec/2015:12:33:23 +0100] "GET /favicon.ico HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+128.232.110.29 - - [27/Dec/2015:12:40:14 +0100] "GET / HTTP/1.1" 200 67
+128.232.110.29 - - [27/Dec/2015:12:40:14 +0100] "GET / HTTP/1.1" 200 67 "-" "Mozilla/5.0 zgrab/0.x"
+127.0.0.1 - - [27/Dec/2015:14:04:02 +0100] "GET / HTTP/1.1" 200 460
+127.0.0.1 - - [27/Dec/2015:14:04:02 +0100] "GET / HTTP/1.1" 200 460 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:04:03 +0100] "GET /icons/blank.gif HTTP/1.1" 403 325
+127.0.0.1 - - [27/Dec/2015:14:04:03 +0100] "GET /icons/blank.gif HTTP/1.1" 403 325 "http://videos.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:04:05 +0100] "GET /favicon.ico HTTP/1.1" 404 310
+127.0.0.1 - - [27/Dec/2015:14:04:05 +0100] "GET /favicon.ico HTTP/1.1" 404 310 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:04:05 +0100] "GET /favicon.ico HTTP/1.1" 404 310
+127.0.0.1 - - [27/Dec/2015:14:04:05 +0100] "GET /favicon.ico HTTP/1.1" 404 310 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:04:07 +0100] "GET / HTTP/1.1" 200 461
+127.0.0.1 - - [27/Dec/2015:14:04:07 +0100] "GET / HTTP/1.1" 200 461 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:04:08 +0100] "GET /icons/blank.gif HTTP/1.1" 403 326
+127.0.0.1 - - [27/Dec/2015:14:04:08 +0100] "GET /icons/blank.gif HTTP/1.1" 403 326 "http://videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:04:08 +0100] "GET /favicon.ico HTTP/1.1" 404 311
+127.0.0.1 - - [27/Dec/2015:14:04:08 +0100] "GET /favicon.ico HTTP/1.1" 404 311 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:04:08 +0100] "GET /favicon.ico HTTP/1.1" 404 311
+127.0.0.1 - - [27/Dec/2015:14:04:08 +0100] "GET /favicon.ico HTTP/1.1" 404 311 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:04:13 +0100] "GET / HTTP/1.1" 500 661
+127.0.0.1 - - [27/Dec/2015:14:04:13 +0100] "GET / HTTP/1.1" 500 661 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:04:14 +0100] "GET /favicon.ico HTTP/1.1" 500 661
+127.0.0.1 - - [27/Dec/2015:14:04:14 +0100] "GET /favicon.ico HTTP/1.1" 500 661 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:04:14 +0100] "GET /favicon.ico HTTP/1.1" 500 661
+127.0.0.1 - - [27/Dec/2015:14:04:14 +0100] "GET /favicon.ico HTTP/1.1" 500 661 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:04:58 +0100] "GET / HTTP/1.1" 500 661
+127.0.0.1 - - [27/Dec/2015:14:04:58 +0100] "GET / HTTP/1.1" 500 661 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:06:29 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312
+::1 - - [27/Dec/2015:14:06:29 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:06:51 +0100] "GET /phpMyAdmin/ HTTP/1.1" 200 2934
+::1 - - [27/Dec/2015:14:06:51 +0100] "GET /phpMyAdmin/ HTTP/1.1" 200 2934 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:07:02 +0100] "GET /phpMyAdmin/themes/pmahomme/jquery/jquery-ui-1.11.2.css HTTP/1.1" 200 35212
+::1 - - [27/Dec/2015:14:07:02 +0100] "GET /phpMyAdmin/themes/pmahomme/jquery/jquery-ui-1.11.2.css HTTP/1.1" 200 35212 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:07:02 +0100] "GET /phpMyAdmin/favicon.ico HTTP/1.1" 200 18902
+::1 - - [27/Dec/2015:14:07:02 +0100] "GET /phpMyAdmin/favicon.ico HTTP/1.1" 200 18902 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:07:02 +0100] "GET /phpMyAdmin/phpmyadmin.css.php?nocache=4322561644ltr HTTP/1.1" 200 21380
+::1 - - [27/Dec/2015:14:07:02 +0100] "GET /phpMyAdmin/phpmyadmin.css.php?nocache=4322561644ltr HTTP/1.1" 200 21380 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:07:02 +0100] "GET /phpMyAdmin/js/messages.php?lang=de&db=&collation_connection=utf8_unicode_ci&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 8557
+::1 - - [27/Dec/2015:14:07:02 +0100] "GET /phpMyAdmin/js/messages.php?lang=de&db=&collation_connection=utf8_unicode_ci&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 8557 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:07:13 +0100] "GET / HTTP/1.1" 500 661
+127.0.0.1 - - [27/Dec/2015:14:07:13 +0100] "GET / HTTP/1.1" 500 661 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:07:02 +0100] "GET /phpMyAdmin/js/get_scripts.js.php?scripts%5B%5D=jquery/jquery-1.11.1.min.js&scripts%5B%5D=sprintf.js&scripts%5B%5D=ajax.js&scripts%5B%5D=keyhandler.js&scripts%5B%5D=jquery/jquery-ui-1.11.2.min.js&scripts%5B%5D=jquery/jquery.cookie.js&scripts%5B%5D=jquery/jquery.mousewheel.js&scripts%5B%5D=jquery/jquery.event.drag-2.2.js&scripts%5B%5D=jquery/jquery-ui-timepicker-addon.js&scripts%5B%5D=jquery/jquery.ba-hashchange-1.3.js&scripts%5B%5D=jquery/jquery.debounce-1.0.5.js&scripts%5B%5D=menu-resizer.js&scripts%5B%5D=cross_framing_protection.js&scripts%5B%5D=rte.js&scripts%5B%5D=tracekit/tracekit.js&scripts%5B%5D=error_report.js&scripts%5B%5D=doclinks.js&scripts%5B%5D=functions.js&scripts%5B%5D=navigation.js&scripts%5B%5D=indexes.js&scripts%5B%5D=common.js&scripts%5B%5D=codemirror/lib/codemirror.js&scripts%5B%5D=codemirror/mode/sql/sql.js&scripts%5B%5D=codemirror/addon/runmode/runmode.js&scripts%5B%5D=codemirror/addon/hint/show-hint.js&scripts%5B%5D=codemirror/addon/hint/sql-hint.js&scripts%5B%5D=console.js HTTP/1.1" 200 331733
+::1 - - [27/Dec/2015:14:07:02 +0100] "GET /phpMyAdmin/js/get_scripts.js.php?scripts%5B%5D=jquery/jquery-1.11.1.min.js&scripts%5B%5D=sprintf.js&scripts%5B%5D=ajax.js&scripts%5B%5D=keyhandler.js&scripts%5B%5D=jquery/jquery-ui-1.11.2.min.js&scripts%5B%5D=jquery/jquery.cookie.js&scripts%5B%5D=jquery/jquery.mousewheel.js&scripts%5B%5D=jquery/jquery.event.drag-2.2.js&scripts%5B%5D=jquery/jquery-ui-timepicker-addon.js&scripts%5B%5D=jquery/jquery.ba-hashchange-1.3.js&scripts%5B%5D=jquery/jquery.debounce-1.0.5.js&scripts%5B%5D=menu-resizer.js&scripts%5B%5D=cross_framing_protection.js&scripts%5B%5D=rte.js&scripts%5B%5D=tracekit/tracekit.js&scripts%5B%5D=error_report.js&scripts%5B%5D=doclinks.js&scripts%5B%5D=functions.js&scripts%5B%5D=navigation.js&scripts%5B%5D=indexes.js&scripts%5B%5D=common.js&scripts%5B%5D=codemirror/lib/codemirror.js&scripts%5B%5D=codemirror/mode/sql/sql.js&scripts%5B%5D=codemirror/addon/runmode/runmode.js&scripts%5B%5D=codemirror/addon/hint/show-hint.js&scripts%5B%5D=codemirror/addon/hint/sql-hint.js&scripts%5B%5D=console.js HTTP/1.1" 200 331733 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:07:02 +0100] "GET /phpMyAdmin/js/whitelist.php?lang=de&db=&collation_connection=utf8_unicode_ci&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 498
+::1 - - [27/Dec/2015:14:07:02 +0100] "GET /phpMyAdmin/js/whitelist.php?lang=de&db=&collation_connection=utf8_unicode_ci&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 498 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:07:02 +0100] "GET /phpMyAdmin/js/get_image.js.php?theme=pmahomme HTTP/1.1" 200 1812
+::1 - - [27/Dec/2015:14:07:02 +0100] "GET /phpMyAdmin/js/get_image.js.php?theme=pmahomme HTTP/1.1" 200 1812 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:07:14 +0100] "GET /phpMyAdmin/themes/dot.gif HTTP/1.1" 200 43
+::1 - - [27/Dec/2015:14:07:14 +0100] "GET /phpMyAdmin/themes/dot.gif HTTP/1.1" 200 43 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:07:14 +0100] "GET /phpMyAdmin/themes/pmahomme/img/logo_right.png HTTP/1.1" 200 4548
+::1 - - [27/Dec/2015:14:07:14 +0100] "GET /phpMyAdmin/themes/pmahomme/img/logo_right.png HTTP/1.1" 200 4548 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:07:17 +0100] "GET /phpMyAdmin/themes/pmahomme/img/sprites.png HTTP/1.1" 200 45779
+::1 - - [27/Dec/2015:14:07:17 +0100] "GET /phpMyAdmin/themes/pmahomme/img/sprites.png HTTP/1.1" 200 45779 "http://localhost/phpMyAdmin/phpmyadmin.css.php?nocache=4322561644ltr" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:07:17 +0100] "GET / HTTP/1.1" 500 661
+127.0.0.1 - - [27/Dec/2015:14:07:17 +0100] "GET / HTTP/1.1" 500 661 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:07:26 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 200 2945
+::1 - - [27/Dec/2015:14:07:26 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 200 2945 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:07:29 +0100] "GET /phpMyAdmin/js/messages.php?lang=de&db=&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 8557
+::1 - - [27/Dec/2015:14:07:29 +0100] "GET /phpMyAdmin/js/messages.php?lang=de&db=&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 8557 "http://localhost/phpMyAdmin/index.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:07:29 +0100] "GET /phpMyAdmin/js/whitelist.php?lang=de&db=&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 498
+::1 - - [27/Dec/2015:14:07:29 +0100] "GET /phpMyAdmin/js/whitelist.php?lang=de&db=&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 498 "http://localhost/phpMyAdmin/index.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:07:37 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 200 2942
+::1 - - [27/Dec/2015:14:07:37 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 200 2942 "http://localhost/phpMyAdmin/index.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:07:47 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 200 2945
+::1 - - [27/Dec/2015:14:07:47 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 200 2945 "http://localhost/phpMyAdmin/index.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:07:54 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 200 2939
+::1 - - [27/Dec/2015:14:07:54 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 200 2939 "http://localhost/phpMyAdmin/index.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:08:33 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 200 2940
+::1 - - [27/Dec/2015:14:08:33 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 200 2940 "http://localhost/phpMyAdmin/index.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:09:14 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 200 2940
+::1 - - [27/Dec/2015:14:09:14 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 200 2940 "http://localhost/phpMyAdmin/index.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:09:56 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 200 2939
+::1 - - [27/Dec/2015:14:09:56 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 200 2939 "http://localhost/phpMyAdmin/index.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:10:06 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 200 2940
+::1 - - [27/Dec/2015:14:10:06 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 200 2940 "http://localhost/phpMyAdmin/index.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:10:38 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 302 25
+::1 - - [27/Dec/2015:14:10:38 +0100] "POST /phpMyAdmin/index.php HTTP/1.1" 302 25 "http://localhost/phpMyAdmin/index.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:10:48 +0100] "GET /phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 10135
+::1 - - [27/Dec/2015:14:10:48 +0100] "GET /phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 10135 "http://localhost/phpMyAdmin/index.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:10:54 +0100] "GET /phpMyAdmin/phpmyadmin.css.php?nocache=5773783495ltr HTTP/1.1" 200 21380
+::1 - - [27/Dec/2015:14:10:54 +0100] "GET /phpMyAdmin/phpmyadmin.css.php?nocache=5773783495ltr HTTP/1.1" 200 21380 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:10:54 +0100] "GET /phpMyAdmin/js/get_scripts.js.php?scripts%5B%5D=jquery/jquery-1.11.1.min.js&scripts%5B%5D=sprintf.js&scripts%5B%5D=ajax.js&scripts%5B%5D=keyhandler.js&scripts%5B%5D=jquery/jquery-ui-1.11.2.min.js&scripts%5B%5D=jquery/jquery.cookie.js&scripts%5B%5D=jquery/jquery.mousewheel.js&scripts%5B%5D=jquery/jquery.event.drag-2.2.js&scripts%5B%5D=jquery/jquery-ui-timepicker-addon.js&scripts%5B%5D=jquery/jquery.ba-hashchange-1.3.js&scripts%5B%5D=jquery/jquery.debounce-1.0.5.js&scripts%5B%5D=menu-resizer.js&scripts%5B%5D=cross_framing_protection.js&scripts%5B%5D=rte.js&scripts%5B%5D=tracekit/tracekit.js&scripts%5B%5D=error_report.js&scripts%5B%5D=doclinks.js&scripts%5B%5D=functions.js&scripts%5B%5D=navigation.js&scripts%5B%5D=indexes.js&scripts%5B%5D=common.js&scripts%5B%5D=codemirror/lib/codemirror.js&scripts%5B%5D=codemirror/mode/sql/sql.js&scripts%5B%5D=codemirror/addon/runmode/runmode.js&scripts%5B%5D=codemirror/addon/hint/show-hint.js&scripts%5B%5D=codemirror/addon/hint/sql-hint.js&scripts%5B%5D=console.js&scripts%5B%5D=config.js HTTP/1.1" 200 337379
+::1 - - [27/Dec/2015:14:10:54 +0100] "GET /phpMyAdmin/js/get_scripts.js.php?scripts%5B%5D=jquery/jquery-1.11.1.min.js&scripts%5B%5D=sprintf.js&scripts%5B%5D=ajax.js&scripts%5B%5D=keyhandler.js&scripts%5B%5D=jquery/jquery-ui-1.11.2.min.js&scripts%5B%5D=jquery/jquery.cookie.js&scripts%5B%5D=jquery/jquery.mousewheel.js&scripts%5B%5D=jquery/jquery.event.drag-2.2.js&scripts%5B%5D=jquery/jquery-ui-timepicker-addon.js&scripts%5B%5D=jquery/jquery.ba-hashchange-1.3.js&scripts%5B%5D=jquery/jquery.debounce-1.0.5.js&scripts%5B%5D=menu-resizer.js&scripts%5B%5D=cross_framing_protection.js&scripts%5B%5D=rte.js&scripts%5B%5D=tracekit/tracekit.js&scripts%5B%5D=error_report.js&scripts%5B%5D=doclinks.js&scripts%5B%5D=functions.js&scripts%5B%5D=navigation.js&scripts%5B%5D=indexes.js&scripts%5B%5D=common.js&scripts%5B%5D=codemirror/lib/codemirror.js&scripts%5B%5D=codemirror/mode/sql/sql.js&scripts%5B%5D=codemirror/addon/runmode/runmode.js&scripts%5B%5D=codemirror/addon/hint/show-hint.js&scripts%5B%5D=codemirror/addon/hint/sql-hint.js&scripts%5B%5D=console.js&scripts%5B%5D=config.js HTTP/1.1" 200 337379 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:10:56 +0100] "GET /phpMyAdmin/themes/pmahomme/img/logo_left.png HTTP/1.1" 200 2327
+::1 - - [27/Dec/2015:14:10:56 +0100] "GET /phpMyAdmin/themes/pmahomme/img/logo_left.png HTTP/1.1" 200 2327 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:10:56 +0100] "GET /phpMyAdmin/themes/pmahomme/img/ajax_clock_small.gif HTTP/1.1" 200 1810
+::1 - - [27/Dec/2015:14:10:56 +0100] "GET /phpMyAdmin/themes/pmahomme/img/ajax_clock_small.gif HTTP/1.1" 200 1810 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:10:58 +0100] "GET /phpMyAdmin/themes/pmahomme/img/left_nav_bg.png HTTP/1.1" 200 297
+::1 - - [27/Dec/2015:14:10:58 +0100] "GET /phpMyAdmin/themes/pmahomme/img/left_nav_bg.png HTTP/1.1" 200 297 "http://localhost/phpMyAdmin/phpmyadmin.css.php?nocache=5773783495ltr" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:11:00 +0100] "GET /phpMyAdmin/themes/pmahomme/img/s_collapseall.png HTTP/1.1" 200 170
+::1 - - [27/Dec/2015:14:11:00 +0100] "GET /phpMyAdmin/themes/pmahomme/img/s_collapseall.png HTTP/1.1" 200 170 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:11:00 +0100] "POST /phpMyAdmin/db_structure.php?ajax_request=1&favorite_table=1&sync_favorite_tables=1&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 1377
+::1 - - [27/Dec/2015:14:11:00 +0100] "POST /phpMyAdmin/db_structure.php?ajax_request=1&favorite_table=1&sync_favorite_tables=1&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 1377 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:11:00 +0100] "GET /phpMyAdmin/version_check.php?&_nocache=1451221858653387508 HTTP/1.1" 200 41
+::1 - - [27/Dec/2015:14:11:00 +0100] "GET /phpMyAdmin/version_check.php?&_nocache=1451221858653387508 HTTP/1.1" 200 41 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:11:15 +0100] "GET /phpMyAdmin/server_databases.php?server=1&token=6dce375d28402c1e73b2ef8d4c530be5&ajax_request=true&ajax_page_request=true&menuHashes=e9587ffc&_nocache=1451221874876969986 HTTP/1.1" 200 6002
+::1 - - [27/Dec/2015:14:11:15 +0100] "GET /phpMyAdmin/server_databases.php?server=1&token=6dce375d28402c1e73b2ef8d4c530be5&ajax_request=true&ajax_page_request=true&menuHashes=e9587ffc&_nocache=1451221874876969986 HTTP/1.1" 200 6002 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:11:16 +0100] "GET /phpMyAdmin/themes/pmahomme/img/arrow_ltr.png HTTP/1.1" 200 139
+::1 - - [27/Dec/2015:14:11:16 +0100] "GET /phpMyAdmin/themes/pmahomme/img/arrow_ltr.png HTTP/1.1" 200 139 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:11:16 +0100] "GET /phpMyAdmin/js/get_scripts.js.php?scripts%5B%5D=server_databases.js&call_done=1 HTTP/1.1" 200 1681
+::1 - - [27/Dec/2015:14:11:16 +0100] "GET /phpMyAdmin/js/get_scripts.js.php?scripts%5B%5D=server_databases.js&call_done=1 HTTP/1.1" 200 1681 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:11:30 +0100] "POST /phpMyAdmin/db_create.php HTTP/1.1" 200 1941
+::1 - - [27/Dec/2015:14:11:30 +0100] "POST /phpMyAdmin/db_create.php HTTP/1.1" 200 1941 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:11:31 +0100] "GET /phpMyAdmin/db_structure.php?db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5&db=videofy-stream&ajax_request=true&ajax_page_request=true&menuHashes=e9587ffc-0982755b&_nocache=1451221891592101536 HTTP/1.1" 200 1691
+::1 - - [27/Dec/2015:14:11:31 +0100] "GET /phpMyAdmin/db_structure.php?db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5&db=videofy-stream&ajax_request=true&ajax_page_request=true&menuHashes=e9587ffc-0982755b&_nocache=1451221891592101536 HTTP/1.1" 200 1691 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:11:31 +0100] "POST /phpMyAdmin/navigation.php?ajax_request=1&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 2162
+::1 - - [27/Dec/2015:14:11:31 +0100] "POST /phpMyAdmin/navigation.php?ajax_request=1&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 2162 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:11:33 +0100] "GET /phpMyAdmin/js/get_scripts.js.php?scripts%5B%5D=db_structure.js&scripts%5B%5D=tbl_change.js&call_done=1 HTTP/1.1" 200 10796
+::1 - - [27/Dec/2015:14:11:33 +0100] "GET /phpMyAdmin/js/get_scripts.js.php?scripts%5B%5D=db_structure.js&scripts%5B%5D=tbl_change.js&call_done=1 HTTP/1.1" 200 10796 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:11:33 +0100] "GET /phpMyAdmin/navigation.php?ajax_request=1&token=6dce375d28402c1e73b2ef8d4c530be5&aPath=cm9vdA%3D%3D.dmlkZW9meS1zdHJlYW0%3D&vPath=cm9vdA%3D%3D.dmlkZW9meS1zdHJlYW0%3D&pos=0&pos2_name=&pos2_value=&searchClause=&searchClause2=&_nocache=1451221893312335116 HTTP/1.1" 200 1316
+::1 - - [27/Dec/2015:14:11:33 +0100] "GET /phpMyAdmin/navigation.php?ajax_request=1&token=6dce375d28402c1e73b2ef8d4c530be5&aPath=cm9vdA%3D%3D.dmlkZW9meS1zdHJlYW0%3D&vPath=cm9vdA%3D%3D.dmlkZW9meS1zdHJlYW0%3D&pos=0&pos2_name=&pos2_value=&searchClause=&searchClause2=&_nocache=1451221893312335116 HTTP/1.1" 200 1316 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:11:44 +0100] "GET /phpMyAdmin/db_sql.php?db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5&ajax_request=true&ajax_page_request=true&menuHashes=e9587ffc-0982755b-3506dd67&_nocache=1451221904575514874 HTTP/1.1" 200 2207
+::1 - - [27/Dec/2015:14:11:44 +0100] "GET /phpMyAdmin/db_sql.php?db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5&ajax_request=true&ajax_page_request=true&menuHashes=e9587ffc-0982755b-3506dd67&_nocache=1451221904575514874 HTTP/1.1" 200 2207 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:11:45 +0100] "GET /phpMyAdmin/js/get_scripts.js.php?scripts%5B%5D=makegrid.js&scripts%5B%5D=jquery/jquery.uitablefilter.js&scripts%5B%5D=sql.js&call_done=1 HTTP/1.1" 200 24895
+::1 - - [27/Dec/2015:14:11:45 +0100] "GET /phpMyAdmin/js/get_scripts.js.php?scripts%5B%5D=makegrid.js&scripts%5B%5D=jquery/jquery.uitablefilter.js&scripts%5B%5D=sql.js&call_done=1 HTTP/1.1" 200 24895 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:11:50 +0100] "GET /phpMyAdmin/db_import.php?db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5&ajax_request=true&ajax_page_request=true&menuHashes=e9587ffc-0982755b-3506dd67-d15cf0ef&_nocache=1451221910092314234 HTTP/1.1" 200 4231
+::1 - - [27/Dec/2015:14:11:50 +0100] "GET /phpMyAdmin/db_import.php?db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5&ajax_request=true&ajax_page_request=true&menuHashes=e9587ffc-0982755b-3506dd67-d15cf0ef&_nocache=1451221910092314234 HTTP/1.1" 200 4231 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:11:52 +0100] "GET /phpMyAdmin/js/get_scripts.js.php?scripts%5B%5D=import.js&call_done=1 HTTP/1.1" 200 1801
+::1 - - [27/Dec/2015:14:11:52 +0100] "GET /phpMyAdmin/js/get_scripts.js.php?scripts%5B%5D=import.js&call_done=1 HTTP/1.1" 200 1801 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:12:22 +0100] "POST /phpMyAdmin/import.php HTTP/1.1" 200 4698
+::1 - - [27/Dec/2015:14:12:22 +0100] "POST /phpMyAdmin/import.php HTTP/1.1" 200 4698 "http://localhost/phpMyAdmin/index.php?token=6dce375d28402c1e73b2ef8d4c530be5" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:12:23 +0100] "GET /phpMyAdmin/js/messages.php?lang=de&db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 8557
+::1 - - [27/Dec/2015:14:12:23 +0100] "GET /phpMyAdmin/js/messages.php?lang=de&db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 8557 "http://localhost/phpMyAdmin/import.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:12:23 +0100] "GET /phpMyAdmin/js/whitelist.php?lang=de&db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 498
+::1 - - [27/Dec/2015:14:12:23 +0100] "GET /phpMyAdmin/js/whitelist.php?lang=de&db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 498 "http://localhost/phpMyAdmin/import.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:12:25 +0100] "POST /phpMyAdmin/navigation.php?ajax_request=1&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 2180
+::1 - - [27/Dec/2015:14:12:25 +0100] "POST /phpMyAdmin/navigation.php?ajax_request=1&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 2180 "http://localhost/phpMyAdmin/import.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:13:23 +0100] "GET /phpMyAdmin/db_import.php?db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5&no_history=true&ajax_request=true&ajax_page_request=true&_nocache=1451222003510250710 HTTP/1.1" 200 4232
+::1 - - [27/Dec/2015:14:13:23 +0100] "GET /phpMyAdmin/db_import.php?db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5&no_history=true&ajax_request=true&ajax_page_request=true&_nocache=1451222003510250710 HTTP/1.1" 200 4232 "http://localhost/phpMyAdmin/import.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:13:30 +0100] "POST /phpMyAdmin/import.php HTTP/1.1" 200 4409
+::1 - - [27/Dec/2015:14:13:30 +0100] "POST /phpMyAdmin/import.php HTTP/1.1" 200 4409 "http://localhost/phpMyAdmin/import.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:13:49 +0100] "POST /phpMyAdmin/navigation.php?ajax_request=1&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 2918
+::1 - - [27/Dec/2015:14:13:49 +0100] "POST /phpMyAdmin/navigation.php?ajax_request=1&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 2918 "http://localhost/phpMyAdmin/import.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:13:53 +0100] "GET /phpMyAdmin/db_structure.php?server=1&db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5&ajax_request=true&ajax_page_request=true&_nocache=1451222033271798846 HTTP/1.1" 200 5820
+::1 - - [27/Dec/2015:14:13:53 +0100] "GET /phpMyAdmin/db_structure.php?server=1&db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5&ajax_request=true&ajax_page_request=true&_nocache=1451222033271798846 HTTP/1.1" 200 5820 "http://localhost/phpMyAdmin/import.php" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:14:06 +0100] "GET / HTTP/1.1" 500 661
+127.0.0.1 - - [27/Dec/2015:14:14:06 +0100] "GET / HTTP/1.1" 500 661 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:14:48 +0100] "GET / HTTP/1.1" 500 661
+127.0.0.1 - - [27/Dec/2015:14:14:48 +0100] "GET / HTTP/1.1" 500 661 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:14:51 +0100] "GET / HTTP/1.1" 500 661
+127.0.0.1 - - [27/Dec/2015:14:14:51 +0100] "GET / HTTP/1.1" 500 661 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:14:52 +0100] "GET / HTTP/1.1" 500 661
+127.0.0.1 - - [27/Dec/2015:14:14:52 +0100] "GET / HTTP/1.1" 500 661 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:14:53 +0100] "GET / HTTP/1.1" 500 661
+127.0.0.1 - - [27/Dec/2015:14:14:53 +0100] "GET / HTTP/1.1" 500 661 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:15:08 +0100] "GET / HTTP/1.1" 500 661
+127.0.0.1 - - [27/Dec/2015:14:15:08 +0100] "GET / HTTP/1.1" 500 661 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:15:26 +0100] "GET / HTTP/1.1" 500 661
+127.0.0.1 - - [27/Dec/2015:14:15:26 +0100] "GET / HTTP/1.1" 500 661 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:16:16 +0100] "GET / HTTP/1.1" 200 17161
+127.0.0.1 - - [27/Dec/2015:14:16:16 +0100] "GET / HTTP/1.1" 200 17161 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:16:31 +0100] "GET / HTTP/1.1" 200 17134
+127.0.0.1 - - [27/Dec/2015:14:16:31 +0100] "GET / HTTP/1.1" 200 17134 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:16:32 +0100] "GET /themes/sound/style.css HTTP/1.1" 200 87170
+127.0.0.1 - - [27/Dec/2015:14:16:32 +0100] "GET /themes/sound/style.css HTTP/1.1" 200 87170 "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:16:32 +0100] "GET /themes/sound/js/jquery.timeago.js HTTP/1.1" 200 4730
+127.0.0.1 - - [27/Dec/2015:14:16:32 +0100] "GET /themes/sound/js/jquery.timeago.js HTTP/1.1" 200 4730 "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:16:32 +0100] "GET /themes/sound/js/jquery.js HTTP/1.1" 200 84249
+127.0.0.1 - - [27/Dec/2015:14:16:32 +0100] "GET /themes/sound/js/jquery.js HTTP/1.1" 200 84249 "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:16:32 +0100] "GET /themes/sound/js/functions.js HTTP/1.1" 200 46903
+127.0.0.1 - - [27/Dec/2015:14:16:32 +0100] "GET /themes/sound/js/functions.js HTTP/1.1" 200 46903 "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:16:32 +0100] "GET /themes/sound/js/jquery.jplayer.min.js HTTP/1.1" 200 60950
+127.0.0.1 - - [27/Dec/2015:14:16:32 +0100] "GET /themes/sound/js/jquery.jplayer.min.js HTTP/1.1" 200 60950 "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:16:34 +0100] "GET /themes/sound/images/player_controls.png HTTP/1.1" 200 4963
+127.0.0.1 - - [27/Dec/2015:14:16:34 +0100] "GET /themes/sound/images/player_controls.png HTTP/1.1" 200 4963 "http://stream.videofy.isc/themes/sound/style.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:16:34 +0100] "GET /themes/sound/images/logo.png HTTP/1.1" 200 1860
+127.0.0.1 - - [27/Dec/2015:14:16:34 +0100] "GET /themes/sound/images/logo.png HTTP/1.1" 200 1860 "http://stream.videofy.isc/themes/sound/style.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:16:34 +0100] "GET /themes/sound/images/downarrow_large.png HTTP/1.1" 200 272
+127.0.0.1 - - [27/Dec/2015:14:16:34 +0100] "GET /themes/sound/images/downarrow_large.png HTTP/1.1" 200 272 "http://stream.videofy.isc/themes/sound/style.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:16:34 +0100] "GET /themes/sound/images/background.png HTTP/1.1" 200 24285
+127.0.0.1 - - [27/Dec/2015:14:16:34 +0100] "GET /themes/sound/images/background.png HTTP/1.1" 200 24285 "http://stream.videofy.isc/themes/sound/style.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:17:02 +0100] "GET / HTTP/1.1" 200 17134
+127.0.0.1 - - [27/Dec/2015:14:17:02 +0100] "GET / HTTP/1.1" 200 17134 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:17:57 +0100] "GET /themes/sound/images/preloader.gif HTTP/1.1" 200 12466
+127.0.0.1 - - [27/Dec/2015:14:17:57 +0100] "GET /themes/sound/images/preloader.gif HTTP/1.1" 200 12466 "http://stream.videofy.isc/themes/sound/style.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:17:57 +0100] "POST /requests/connect.php HTTP/1.1" 200 1
+127.0.0.1 - - [27/Dec/2015:14:17:57 +0100] "POST /requests/connect.php HTTP/1.1" 200 1 "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:17:58 +0100] "GET / HTTP/1.1" 200 17134
+127.0.0.1 - - [27/Dec/2015:14:17:58 +0100] "GET / HTTP/1.1" 200 17134 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/js/jquery.js HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/js/jquery.js HTTP/1.1" 304 - "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/js/jquery.jplayer.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/js/jquery.jplayer.min.js HTTP/1.1" 304 - "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/js/functions.js HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/js/functions.js HTTP/1.1" 304 - "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/js/jquery.timeago.js HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/js/jquery.timeago.js HTTP/1.1" 304 - "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/style.css HTTP/1.1" 304 - "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/images/downarrow_large.png HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/images/downarrow_large.png HTTP/1.1" 304 - "http://stream.videofy.isc/themes/sound/style.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/images/player_controls.png HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/images/player_controls.png HTTP/1.1" 304 - "http://stream.videofy.isc/themes/sound/style.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/images/logo.png HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/images/logo.png HTTP/1.1" 304 - "http://stream.videofy.isc/themes/sound/style.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/images/background.png HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:17:59 +0100] "GET /themes/sound/images/background.png HTTP/1.1" 304 - "http://stream.videofy.isc/themes/sound/style.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:18:03 +0100] "GET /page.php?a=welcome HTTP/1.1" 200 2546
+127.0.0.1 - - [27/Dec/2015:14:18:03 +0100] "GET /page.php?a=welcome HTTP/1.1" 200 2546 "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:18:06 +0100] "GET /page.php?a=admin HTTP/1.1" 200 1242
+127.0.0.1 - - [27/Dec/2015:14:18:06 +0100] "GET /page.php?a=admin HTTP/1.1" 200 1242 "http://stream.videofy.isc/index.php?a=welcome" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:18:36 +0100] "POST /index.php?a=admin HTTP/1.1" 200 26846
+127.0.0.1 - - [27/Dec/2015:14:18:36 +0100] "POST /index.php?a=admin HTTP/1.1" 200 26846 "http://stream.videofy.isc/index.php?a=admin" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:18:55 +0100] "POST /index.php?a=admin HTTP/1.1" 302 26846
+127.0.0.1 - - [27/Dec/2015:14:18:55 +0100] "POST /index.php?a=admin HTTP/1.1" 302 26846 "http://stream.videofy.isc/index.php?a=admin" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:18:55 +0100] "GET /index.php?a=admin&m=s HTTP/1.1" 200 27292
+127.0.0.1 - - [27/Dec/2015:14:18:55 +0100] "GET /index.php?a=admin&m=s HTTP/1.1" 200 27292 "http://stream.videofy.isc/index.php?a=admin" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:18:55 +0100] "GET /includes/captcha.php HTTP/1.1" 200 184
+127.0.0.1 - - [27/Dec/2015:14:18:55 +0100] "GET /includes/captcha.php HTTP/1.1" 200 184 "http://stream.videofy.isc/index.php?a=admin&m=s" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:18:56 +0100] "GET /themes/sound/images/icons/close_h.png HTTP/1.1" 200 288
+127.0.0.1 - - [27/Dec/2015:14:18:56 +0100] "GET /themes/sound/images/icons/close_h.png HTTP/1.1" 200 288 "http://stream.videofy.isc/themes/sound/style.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:18:58 +0100] "GET /page.php?a=admin&b=users_settings HTTP/1.1" 200 6415
+127.0.0.1 - - [27/Dec/2015:14:18:58 +0100] "GET /page.php?a=admin&b=users_settings HTTP/1.1" 200 6415 "http://stream.videofy.isc/index.php?a=admin&m=s" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:01 +0100] "GET /page.php?a=admin&b=pro HTTP/1.1" 200 7109
+127.0.0.1 - - [27/Dec/2015:14:19:01 +0100] "GET /page.php?a=admin&b=pro HTTP/1.1" 200 7109 "http://stream.videofy.isc/index.php?a=admin&b=users_settings" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:03 +0100] "GET /page.php?a=admin&b=social HTTP/1.1" 200 2979
+127.0.0.1 - - [27/Dec/2015:14:19:03 +0100] "GET /page.php?a=admin&b=social HTTP/1.1" 200 2979 "http://stream.videofy.isc/index.php?a=admin&b=pro" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:05 +0100] "GET /page.php?a=admin&b=themes HTTP/1.1" 200 2567
+127.0.0.1 - - [27/Dec/2015:14:19:05 +0100] "GET /page.php?a=admin&b=themes HTTP/1.1" 200 2567 "http://stream.videofy.isc/index.php?a=admin&b=social" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:05 +0100] "GET /themes/sound/icon.png HTTP/1.1" 200 4530
+127.0.0.1 - - [27/Dec/2015:14:19:05 +0100] "GET /themes/sound/icon.png HTTP/1.1" 200 4530 "http://stream.videofy.isc/index.php?a=admin&b=themes" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:07 +0100] "GET /page.php?a=admin&b=stats HTTP/1.1" 200 7022
+127.0.0.1 - - [27/Dec/2015:14:19:07 +0100] "GET /page.php?a=admin&b=stats HTTP/1.1" 200 7022 "http://stream.videofy.isc/index.php?a=admin&b=themes" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:08 +0100] "GET /page.php?a=admin&b=security HTTP/1.1" 200 2397
+127.0.0.1 - - [27/Dec/2015:14:19:08 +0100] "GET /page.php?a=admin&b=security HTTP/1.1" 200 2397 "http://stream.videofy.isc/index.php?a=admin&b=stats" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:09 +0100] "GET /page.php?a=admin&b=users HTTP/1.1" 200 2443
+127.0.0.1 - - [27/Dec/2015:14:19:09 +0100] "GET /page.php?a=admin&b=users HTTP/1.1" 200 2443 "http://stream.videofy.isc/index.php?a=admin&b=security" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:10 +0100] "GET /page.php?a=admin&b=security HTTP/1.1" 200 2397
+127.0.0.1 - - [27/Dec/2015:14:19:10 +0100] "GET /page.php?a=admin&b=security HTTP/1.1" 200 2397 "http://stream.videofy.isc/index.php?a=admin&b=users" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:15 +0100] "POST /index.php?a=admin&b=security HTTP/1.1" 302 17213
+127.0.0.1 - - [27/Dec/2015:14:19:15 +0100] "POST /index.php?a=admin&b=security HTTP/1.1" 302 17213 "http://stream.videofy.isc/index.php?a=admin&b=security" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:16 +0100] "GET /index.php?a=admin&b=security&m=s HTTP/1.1" 200 17374
+127.0.0.1 - - [27/Dec/2015:14:19:16 +0100] "GET /index.php?a=admin&b=security&m=s HTTP/1.1" 200 17374 "http://stream.videofy.isc/index.php?a=admin&b=security" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:17 +0100] "GET /includes/captcha.php HTTP/1.1" 200 184
+127.0.0.1 - - [27/Dec/2015:14:19:17 +0100] "GET /includes/captcha.php HTTP/1.1" 200 184 "http://stream.videofy.isc/index.php?a=admin&b=security&m=s" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:21 +0100] "GET /page.php?a=admin&b=users HTTP/1.1" 200 2443
+127.0.0.1 - - [27/Dec/2015:14:19:21 +0100] "GET /page.php?a=admin&b=users HTTP/1.1" 200 2443 "http://stream.videofy.isc/index.php?a=admin&b=security&m=s" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:22 +0100] "GET /page.php?a=admin&b=payments HTTP/1.1" 200 2448
+127.0.0.1 - - [27/Dec/2015:14:19:22 +0100] "GET /page.php?a=admin&b=payments HTTP/1.1" 200 2448 "http://stream.videofy.isc/index.php?a=admin&b=users" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:23 +0100] "GET /page.php?a=admin&b=reports HTTP/1.1" 200 2440
+127.0.0.1 - - [27/Dec/2015:14:19:23 +0100] "GET /page.php?a=admin&b=reports HTTP/1.1" 200 2440 "http://stream.videofy.isc/index.php?a=admin&b=payments" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:24 +0100] "GET /page.php?a=admin&b=categories HTTP/1.1" 200 7510
+127.0.0.1 - - [27/Dec/2015:14:19:24 +0100] "GET /page.php?a=admin&b=categories HTTP/1.1" 200 7510 "http://stream.videofy.isc/index.php?a=admin&b=reports" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:24 +0100] "GET /page.php?a=admin&b=ads HTTP/1.1" 200 3792
+127.0.0.1 - - [27/Dec/2015:14:19:24 +0100] "GET /page.php?a=admin&b=ads HTTP/1.1" 200 3792 "http://stream.videofy.isc/index.php?a=admin&b=categories" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:26 +0100] "GET /page.php?a=welcome HTTP/1.1" 200 2596
+127.0.0.1 - - [27/Dec/2015:14:19:26 +0100] "GET /page.php?a=welcome HTTP/1.1" 200 2596 "http://stream.videofy.isc/index.php?a=admin&b=ads" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:40 +0100] "POST /requests/connect.php HTTP/1.1" 200 179
+127.0.0.1 - - [27/Dec/2015:14:19:40 +0100] "POST /requests/connect.php HTTP/1.1" 200 179 "http://stream.videofy.isc/index.php?a=welcome" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:40 +0100] "GET /includes/captcha.php HTTP/1.1" 200 184
+127.0.0.1 - - [27/Dec/2015:14:19:40 +0100] "GET /includes/captcha.php HTTP/1.1" 200 184 "http://stream.videofy.isc/index.php?a=welcome" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:19:45 +0100] "GET /includes/captcha.php HTTP/1.1" 200 184
+127.0.0.1 - - [27/Dec/2015:14:19:45 +0100] "GET /includes/captcha.php HTTP/1.1" 200 184 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:26:25 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312
+::1 - - [27/Dec/2015:14:26:25 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:26:29 +0100] "GET /phpinfo.php HTTP/1.1" 200 98887
+::1 - - [27/Dec/2015:14:26:29 +0100] "GET /phpinfo.php HTTP/1.1" 200 98887 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:28:19 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312
+::1 - - [27/Dec/2015:14:28:19 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:28:21 +0100] "GET /phpinfo.php HTTP/1.1" 200 98887
+::1 - - [27/Dec/2015:14:28:21 +0100] "GET /phpinfo.php HTTP/1.1" 200 98887 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:30:26 +0100] "GET / HTTP/1.1" 200 17446
+127.0.0.1 - - [27/Dec/2015:14:30:26 +0100] "GET / HTTP/1.1" 200 17446 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:30:26 +0100] "GET /includes/captcha.php HTTP/1.1" 200 335
+127.0.0.1 - - [27/Dec/2015:14:30:26 +0100] "GET /includes/captcha.php HTTP/1.1" 200 335 "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:31:22 +0100] "POST /requests/connect.php HTTP/1.1" 200 221
+127.0.0.1 - - [27/Dec/2015:14:31:22 +0100] "POST /requests/connect.php HTTP/1.1" 200 221 "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:31:29 +0100] "POST /requests/connect.php HTTP/1.1" 200 1
+127.0.0.1 - - [27/Dec/2015:14:31:29 +0100] "POST /requests/connect.php HTTP/1.1" 200 1 "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET / HTTP/1.1" 200 17446
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET / HTTP/1.1" 200 17446 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/js/jquery.timeago.js HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/js/jquery.timeago.js HTTP/1.1" 304 - "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/js/jquery.js HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/js/jquery.js HTTP/1.1" 304 - "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/js/functions.js HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/js/functions.js HTTP/1.1" 304 - "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/js/jquery.jplayer.min.js HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/js/jquery.jplayer.min.js HTTP/1.1" 304 - "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/style.css HTTP/1.1" 304 - "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /includes/captcha.php HTTP/1.1" 200 322
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /includes/captcha.php HTTP/1.1" 200 322 "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/images/player_controls.png HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/images/player_controls.png HTTP/1.1" 304 - "http://stream.videofy.isc/themes/sound/style.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/images/logo.png HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/images/logo.png HTTP/1.1" 304 - "http://stream.videofy.isc/themes/sound/style.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/images/downarrow_large.png HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/images/downarrow_large.png HTTP/1.1" 304 - "http://stream.videofy.isc/themes/sound/style.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/images/background.png HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:31:31 +0100] "GET /themes/sound/images/background.png HTTP/1.1" 304 - "http://stream.videofy.isc/themes/sound/style.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:31:36 +0100] "GET /page.php?a=welcome HTTP/1.1" 200 2596
+127.0.0.1 - - [27/Dec/2015:14:31:36 +0100] "GET /page.php?a=welcome HTTP/1.1" 200 2596 "http://stream.videofy.isc/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:31:52 +0100] "GET /themes/sound/images/preloader.gif HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:31:52 +0100] "GET /themes/sound/images/preloader.gif HTTP/1.1" 304 - "http://stream.videofy.isc/themes/sound/style.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:31:52 +0100] "POST /requests/connect.php HTTP/1.1" 200 193
+127.0.0.1 - - [27/Dec/2015:14:31:52 +0100] "POST /requests/connect.php HTTP/1.1" 200 193 "http://stream.videofy.isc/index.php?a=welcome" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:31:52 +0100] "GET /themes/sound/images/icons/close_h.png HTTP/1.1" 304 -
+127.0.0.1 - - [27/Dec/2015:14:31:52 +0100] "GET /themes/sound/images/icons/close_h.png HTTP/1.1" 304 - "http://stream.videofy.isc/themes/sound/style.css" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:32:06 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312
+::1 - - [27/Dec/2015:14:32:06 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:32:09 +0100] "GET /phpMyAdmin/ HTTP/1.1" 200 10155
+::1 - - [27/Dec/2015:14:32:09 +0100] "GET /phpMyAdmin/ HTTP/1.1" 200 10155 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:32:12 +0100] "GET /phpMyAdmin/version_check.php?&_nocache=145122313204093334 HTTP/1.1" 200 41
+::1 - - [27/Dec/2015:14:32:12 +0100] "GET /phpMyAdmin/version_check.php?&_nocache=145122313204093334 HTTP/1.1" 200 41 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:32:14 +0100] "GET /phpMyAdmin/db_structure.php?server=1&db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5&ajax_request=true&ajax_page_request=true&menuHashes=e9587ffc&_nocache=1451223134545499109 HTTP/1.1" 200 5820
+::1 - - [27/Dec/2015:14:32:14 +0100] "GET /phpMyAdmin/db_structure.php?server=1&db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5&ajax_request=true&ajax_page_request=true&menuHashes=e9587ffc&_nocache=1451223134545499109 HTTP/1.1" 200 5820 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:32:15 +0100] "GET /phpMyAdmin/navigation.php?ajax_request=1&token=6dce375d28402c1e73b2ef8d4c530be5&aPath=cm9vdA%3D%3D.dmlkZW9meS1zdHJlYW0%3D&vPath=cm9vdA%3D%3D.dmlkZW9meS1zdHJlYW0%3D&pos=0&pos2_name=&pos2_value=&searchClause=&searchClause2=&_nocache=1451223135468944808 HTTP/1.1" 200 2203
+::1 - - [27/Dec/2015:14:32:15 +0100] "GET /phpMyAdmin/navigation.php?ajax_request=1&token=6dce375d28402c1e73b2ef8d4c530be5&aPath=cm9vdA%3D%3D.dmlkZW9meS1zdHJlYW0%3D&vPath=cm9vdA%3D%3D.dmlkZW9meS1zdHJlYW0%3D&pos=0&pos2_name=&pos2_value=&searchClause=&searchClause2=&_nocache=1451223135468944808 HTTP/1.1" 200 2203 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:32:17 +0100] "GET /phpMyAdmin/sql.php?db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5&goto=db_structure.php&table=users&pos=0&ajax_request=true&ajax_page_request=true&menuHashes=e9587ffc-3506dd67&_nocache=145122313778787744 HTTP/1.1" 200 2071
+::1 - - [27/Dec/2015:14:32:17 +0100] "GET /phpMyAdmin/sql.php?db=videofy-stream&token=6dce375d28402c1e73b2ef8d4c530be5&goto=db_structure.php&table=users&pos=0&ajax_request=true&ajax_page_request=true&menuHashes=e9587ffc-3506dd67&_nocache=145122313778787744 HTTP/1.1" 200 2071 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:32:18 +0100] "GET /phpMyAdmin/js/get_scripts.js.php?scripts%5B%5D=jquery/jquery.uitablefilter.js&scripts%5B%5D=gis_data_editor.js&scripts%5B%5D=multi_column_sort.js&call_done=1 HTTP/1.1" 200 5809
+::1 - - [27/Dec/2015:14:32:18 +0100] "GET /phpMyAdmin/js/get_scripts.js.php?scripts%5B%5D=jquery/jquery.uitablefilter.js&scripts%5B%5D=gis_data_editor.js&scripts%5B%5D=multi_column_sort.js&call_done=1 HTTP/1.1" 200 5809 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:32:19 +0100] "GET /phpMyAdmin/index.php?ajax_request=1&recent_table=1&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 1355
+::1 - - [27/Dec/2015:14:32:19 +0100] "GET /phpMyAdmin/index.php?ajax_request=1&recent_table=1&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 1355 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:32:23 +0100] "GET /phpMyAdmin/tbl_structure.php?db=videofy-stream&table=users&token=6dce375d28402c1e73b2ef8d4c530be5&ajax_request=true&ajax_page_request=true&menuHashes=e9587ffc-3506dd67-e6626361&_nocache=1451223143198289009 HTTP/1.1" 200 9913
+::1 - - [27/Dec/2015:14:32:23 +0100] "GET /phpMyAdmin/tbl_structure.php?db=videofy-stream&table=users&token=6dce375d28402c1e73b2ef8d4c530be5&ajax_request=true&ajax_page_request=true&menuHashes=e9587ffc-3506dd67-e6626361&_nocache=1451223143198289009 HTTP/1.1" 200 9913 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:32:25 +0100] "GET /phpMyAdmin/js/get_scripts.js.php?scripts%5B%5D=tbl_structure.js&call_done=1 HTTP/1.1" 200 4474
+::1 - - [27/Dec/2015:14:32:25 +0100] "GET /phpMyAdmin/js/get_scripts.js.php?scripts%5B%5D=tbl_structure.js&call_done=1 HTTP/1.1" 200 4474 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:32:25 +0100] "GET /phpMyAdmin/index.php?ajax_request=1&recent_table=1&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 1355
+::1 - - [27/Dec/2015:14:32:25 +0100] "GET /phpMyAdmin/index.php?ajax_request=1&recent_table=1&token=6dce375d28402c1e73b2ef8d4c530be5 HTTP/1.1" 200 1355 "http://localhost/phpMyAdmin/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:34:41 +0100] "POST /requests/connect.php HTTP/1.1" 200 193
+127.0.0.1 - - [27/Dec/2015:14:34:41 +0100] "POST /requests/connect.php HTTP/1.1" 200 193 "http://stream.videofy.isc/index.php?a=welcome" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:40:36 +0100] "GET /server-status?auto HTTP/1.1" 404 311
+127.0.0.1 - - [27/Dec/2015:14:40:36 +0100] "GET /server-status?auto HTTP/1.1" 404 311 "-" "ApacheLounge Monitor"
+::1 - - [27/Dec/2015:14:40:53 +0100] "GET / HTTP/1.1" 304 -
+::1 - - [27/Dec/2015:14:40:53 +0100] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:41:02 +0100] "GET /apachestats HTTP/1.1" 301 337
+::1 - - [27/Dec/2015:14:41:02 +0100] "GET /apachestats HTTP/1.1" 301 337 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:41:02 +0100] "GET /apachestats/ HTTP/1.1" 200 3287
+::1 - - [27/Dec/2015:14:41:02 +0100] "GET /apachestats/ HTTP/1.1" 200 3287 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:41:03 +0100] "GET /icons/blank.gif HTTP/1.1" 403 324
+::1 - - [27/Dec/2015:14:41:03 +0100] "GET /icons/blank.gif HTTP/1.1" 403 324 "http://localhost/apachestats/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:41:03 +0100] "GET /icons/back.gif HTTP/1.1" 403 323
+::1 - - [27/Dec/2015:14:41:03 +0100] "GET /icons/back.gif HTTP/1.1" 403 323 "http://localhost/apachestats/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:41:03 +0100] "GET /icons/image2.gif HTTP/1.1" 403 325
+::1 - - [27/Dec/2015:14:41:03 +0100] "GET /icons/image2.gif HTTP/1.1" 403 325 "http://localhost/apachestats/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:41:03 +0100] "GET /icons/text.gif HTTP/1.1" 403 323
+::1 - - [27/Dec/2015:14:41:03 +0100] "GET /icons/text.gif HTTP/1.1" 403 323 "http://localhost/apachestats/" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+127.0.0.1 - - [27/Dec/2015:14:43:09 +0100] "GET /server-status?auto HTTP/1.1" 404 311
+127.0.0.1 - - [27/Dec/2015:14:43:09 +0100] "GET /server-status?auto HTTP/1.1" 404 311 "-" "ApacheLounge Monitor"
+::1 - - [27/Dec/2015:14:52:32 +0100] "GET /server-info HTTP/1.1" 403 320
+::1 - - [27/Dec/2015:14:52:32 +0100] "GET /server-info HTTP/1.1" 403 320 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [27/Dec/2015:14:52:36 +0100] "GET /server-status HTTP/1.1" 404 311
+::1 - - [27/Dec/2015:14:52:36 +0100] "GET /server-status HTTP/1.1" 404 311 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [29/Dec/2015:14:32:50 +0100] "GET / HTTP/1.1" 200 67
+::1 - - [29/Dec/2015:14:32:50 +0100] "GET / HTTP/1.1" 200 67 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [29/Dec/2015:14:32:51 +0100] "GET /favicon.ico HTTP/1.1" 404 309
+::1 - - [29/Dec/2015:14:32:51 +0100] "GET /favicon.ico HTTP/1.1" 404 309 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [29/Dec/2015:14:33:34 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312
+::1 - - [29/Dec/2015:14:33:34 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [29/Dec/2015:14:33:35 +0100] "GET /favicon.ico HTTP/1.1" 404 309
+::1 - - [29/Dec/2015:14:33:35 +0100] "GET /favicon.ico HTTP/1.1" 404 309 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [29/Dec/2015:14:33:35 +0100] "GET /favicon.ico HTTP/1.1" 404 309
+::1 - - [29/Dec/2015:14:33:35 +0100] "GET /favicon.ico HTTP/1.1" 404 309 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+::1 - - [29/Dec/2015:14:33:40 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312
+::1 - - [29/Dec/2015:14:33:40 +0100] "GET /apachehaus.ico HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0"
+169.254.98.33 - - [29/Dec/2015:16:01:48 +0100] "GET / HTTP/1.1" 200 67
+169.254.98.33 - - [29/Dec/2015:16:01:48 +0100] "GET / HTTP/1.1" 200 67 "-" "avast! Antivirus"
+169.254.98.33 - - [29/Dec/2015:16:01:49 +0100] "GET /HNAP1/ HTTP/1.1" 404 308
+169.254.98.33 - - [29/Dec/2015:16:01:49 +0100] "GET /HNAP1/ HTTP/1.1" 404 308 "-" "avast! Antivirus"
+169.254.98.33 - - [29/Dec/2015:16:01:50 +0100] "GET / HTTP/1.1" 200 67
+169.254.98.33 - - [29/Dec/2015:16:01:50 +0100] "GET /HNAP1/ HTTP/1.1" 404 309
+192.168.162.1 - - [29/Dec/2015:16:01:52 +0100] "GET / HTTP/1.1" 200 67
+192.168.162.1 - - [29/Dec/2015:16:01:52 +0100] "GET / HTTP/1.1" 200 67 "-" "avast! Antivirus"
+192.168.162.1 - - [29/Dec/2015:16:01:52 +0100] "GET /HNAP1/ HTTP/1.1" 404 308
+192.168.162.1 - - [29/Dec/2015:16:01:52 +0100] "GET /HNAP1/ HTTP/1.1" 404 308 "-" "avast! Antivirus"
+192.168.162.1 - - [29/Dec/2015:16:01:53 +0100] "GET / HTTP/1.1" 200 67
+192.168.162.1 - - [29/Dec/2015:16:01:53 +0100] "GET /HNAP1/ HTTP/1.1" 404 309
+192.168.177.1 - - [29/Dec/2015:16:01:55 +0100] "GET / HTTP/1.1" 200 67
+192.168.177.1 - - [29/Dec/2015:16:01:55 +0100] "GET / HTTP/1.1" 200 67 "-" "avast! Antivirus"
+192.168.177.1 - - [29/Dec/2015:16:01:55 +0100] "GET /HNAP1/ HTTP/1.1" 404 308
+192.168.177.1 - - [29/Dec/2015:16:01:55 +0100] "GET /HNAP1/ HTTP/1.1" 404 308 "-" "avast! Antivirus"
+192.168.177.1 - - [29/Dec/2015:16:01:55 +0100] "GET / HTTP/1.1" 200 67
+192.168.177.1 - - [29/Dec/2015:16:01:55 +0100] "GET /HNAP1/ HTTP/1.1" 404 309
+192.168.178.23 - - [29/Dec/2015:16:01:57 +0100] "GET / HTTP/1.1" 200 67
+192.168.178.23 - - [29/Dec/2015:16:01:57 +0100] "GET / HTTP/1.1" 200 67 "-" "avast! Antivirus"
+192.168.178.23 - - [29/Dec/2015:16:01:57 +0100] "GET /HNAP1/ HTTP/1.1" 404 309
+192.168.178.23 - - [29/Dec/2015:16:01:57 +0100] "GET /HNAP1/ HTTP/1.1" 404 309 "-" "avast! Antivirus"
+192.168.178.23 - - [29/Dec/2015:16:01:57 +0100] "GET / HTTP/1.1" 200 67
+192.168.178.23 - - [29/Dec/2015:16:01:57 +0100] "GET /HNAP1/ HTTP/1.1" 404 310
+fe80::3d28:c9dc:2758:8479 - - [29/Dec/2015:16:01:59 +0100] "GET / HTTP/1.1" 200 67
+fe80::3d28:c9dc:2758:8479 - - [29/Dec/2015:16:01:59 +0100] "GET / HTTP/1.1" 200 67 "-" "avast! Antivirus"
+fe80::3d28:c9dc:2758:8479 - - [29/Dec/2015:16:02:00 +0100] "GET /HNAP1/ HTTP/1.1" 404 320
+fe80::3d28:c9dc:2758:8479 - - [29/Dec/2015:16:02:00 +0100] "GET /HNAP1/ HTTP/1.1" 404 320 "-" "avast! Antivirus"
+fe80::3d28:c9dc:2758:8479 - - [29/Dec/2015:16:02:00 +0100] "GET / HTTP/1.1" 200 67
+fe80::3d28:c9dc:2758:8479 - - [29/Dec/2015:16:02:00 +0100] "GET /HNAP1/ HTTP/1.1" 404 321
+fe80::8cf7:195:52d1:435d - - [29/Dec/2015:16:02:02 +0100] "GET / HTTP/1.1" 200 67
+fe80::8cf7:195:52d1:435d - - [29/Dec/2015:16:02:02 +0100] "GET / HTTP/1.1" 200 67 "-" "avast! Antivirus"
+fe80::8cf7:195:52d1:435d - - [29/Dec/2015:16:02:02 +0100] "GET /HNAP1/ HTTP/1.1" 404 319
+fe80::8cf7:195:52d1:435d - - [29/Dec/2015:16:02:02 +0100] "GET /HNAP1/ HTTP/1.1" 404 319 "-" "avast! Antivirus"
+fe80::8cf7:195:52d1:435d - - [29/Dec/2015:16:02:02 +0100] "GET / HTTP/1.1" 200 67
+fe80::8cf7:195:52d1:435d - - [29/Dec/2015:16:02:02 +0100] "GET /HNAP1/ HTTP/1.1" 404 320
+fe80::94ff:6f57:8cdf:6221 - - [29/Dec/2015:16:02:04 +0100] "GET / HTTP/1.1" 200 67
+fe80::94ff:6f57:8cdf:6221 - - [29/Dec/2015:16:02:04 +0100] "GET / HTTP/1.1" 200 67 "-" "avast! Antivirus"
+fe80::94ff:6f57:8cdf:6221 - - [29/Dec/2015:16:02:05 +0100] "GET /HNAP1/ HTTP/1.1" 404 320
+fe80::94ff:6f57:8cdf:6221 - - [29/Dec/2015:16:02:05 +0100] "GET /HNAP1/ HTTP/1.1" 404 320 "-" "avast! Antivirus"
+fe80::94ff:6f57:8cdf:6221 - - [29/Dec/2015:16:02:05 +0100] "GET / HTTP/1.1" 200 67
+fe80::94ff:6f57:8cdf:6221 - - [29/Dec/2015:16:02:05 +0100] "GET /HNAP1/ HTTP/1.1" 404 321
+fe80::bc64:ac69:84d1:a7c8 - - [29/Dec/2015:16:02:07 +0100] "GET / HTTP/1.1" 200 67
+fe80::bc64:ac69:84d1:a7c8 - - [29/Dec/2015:16:02:07 +0100] "GET / HTTP/1.1" 200 67 "-" "avast! Antivirus"
+fe80::bc64:ac69:84d1:a7c8 - - [29/Dec/2015:16:02:07 +0100] "GET /HNAP1/ HTTP/1.1" 404 320
+fe80::bc64:ac69:84d1:a7c8 - - [29/Dec/2015:16:02:07 +0100] "GET /HNAP1/ HTTP/1.1" 404 320 "-" "avast! Antivirus"
+fe80::bc64:ac69:84d1:a7c8 - - [29/Dec/2015:16:02:07 +0100] "GET / HTTP/1.1" 200 67
+fe80::bc64:ac69:84d1:a7c8 - - [29/Dec/2015:16:02:07 +0100] "GET /HNAP1/ HTTP/1.1" 404 321
